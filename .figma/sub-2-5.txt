@@ -1,0 +1,187 @@
+  607   <frame id="2:5" name="Réalisations &amp; Insights — Desktop" x="4920" y="0" width="1440" height="3425">
+  608     <instance id="61:550" name="Navigation / Site public" x="0" y="0" width="1440" height="90" />
+  609     <frame id="11:10" name="Frame" x="0" y="90" width="1440" height="619">
+  610       <text id="11:11" name="RÉALISATIONS &amp; INSIGHTS" x="84" y="72" width="367" height="17" />
+  611       <frame id="11:12" name="Frame" x="84" y="117" width="1272" height="430">
+  612         <frame id="11:13" name="Frame" x="0" y="134" width="746" height="162">
+  613           <text id="11:14" name="Des missions à découvrir." x="0" y="0" width="730" height="94" />
+  614           <text id="11:15" name="PANGARAMA partage progressivement ses projets, analyses, décryptages et données " x="0" y="112" width="620" height="50" />
+  615         </frame>
+  616         <frame id="62:575" name="Photographie éditoriale / report" x="802" y="0" width="470" height="430">
+  617           <frame id="70:145" name="Visuel éditorial / Case system" x="0" y="0" width="470" height="430">
+  618             <vector id="70:146" name="Vector" x="0" y="0" width="470" height="430" />
+  619             <vector id="70:147" name="Vector" x="28" y="26" width="414" height="378" />
+  620             <text id="70:148" name="CASE SYSTEM / 02" x="56" y="59" width="92" height="12" />
+  621             <vector id="70:149" name="Vector" x="56" y="292" width="339" height="69" />
+  622             <vector id="70:150" name="Vector" x="56" y="146" width="339" height="146" />
+  623             <vector id="70:151" name="Vector" x="346" y="139" width="14" height="14" />
+  624             <text id="70:152" name="LOCAL SIGNALS" x="56" y="108" width="94" height="15" />
+  625           </frame>
+  626         </frame>
+  627       </frame>
+  628     </frame>
+  629     <frame id="11:30" name="Frame" x="0" y="709" width="1440" height="615">
+  630       <text id="11:31" name="NOS ANALYSES" x="84" y="90" width="92" height="17" />
+  631       <frame id="11:32" name="Frame" x="84" y="135" width="1272" height="390">
+  632         <frame id="62:576" name="Photographie éditoriale / report" x="0" y="0" width="570" height="390">
+  633           <frame id="71:121" name="Visuel éditorial / Insight system" x="0" y="0" width="570" height="390">
+  634             <vector id="71:122" name="Vector" x="0" y="0" width="570" height="390" />
+  635             <vector id="71:123" name="Vector" x="29" y="23" width="513" height="343" />
+  636             <text id="71:124" name="PANGARAMA / FIELD SYSTEM" x="57" y="52" width="143" height="12" />
+  637             <vector id="71:125" name="Vector" x="57" y="129" width="456" height="136" />
+  638             <vector id="71:126" name="Vector" x="57" y="265" width="456" height="63" />
+  639             <vector id="71:127" name="Vector" x="420" y="121" width="16" height="16" />
+  640             <text id="71:128" name="01 / SIGNALS" x="57" y="104" width="82" height="16" />
+  641           </frame>
+  642         </frame>
+  643         <frame id="11:48" name="Frame" x="626" y="0" width="646" height="204">
+  644           <text id="11:49" name="PANGARAMA INSIGHTS" x="0" y="0" width="156" height="20" />
+  645           <text id="11:50" name="Analyses, notes et études sur les marchés, secteurs et enjeux des organisations." x="0" y="36" width="560" height="66" />
+  646           <text id="11:51" name="Une information structurée et contextualisée pour mieux comprendre les dynamique" x="0" y="118" width="540" height="50" />
+  647           <text id="11:52" name="Lire l’analyse →" x="0" y="184" width="106" height="20" />
+  648         </frame>
+  649       </frame>
+  650     </frame>
+  651     <frame id="11:53" name="Frame" x="0" y="1324" width="1440" height="1104">
+  652       <frame id="11:54" name="Frame" x="84" y="90" width="1272" height="42">
+  653         <text id="11:55" name="Insights" x="0" y="0" width="180" height="42" />
+  654         <frame id="11:56" name="Frame" x="210" y="20.5" width="477" height="1" />
+  655         <frame id="11:57" name="Frame" x="717" y="3" width="58" height="36">
+  656           <text id="11:58" name="Tous" x="13" y="8" width="32" height="20" />
+  657         </frame>
+  658         <frame id="11:59" name="Frame" x="805" y="3" width="84" height="36">
+  659           <text id="11:60" name="Marchés" x="13" y="8" width="58" height="20" />
+  660         </frame>
+  661         <frame id="11:61" name="Frame" x="919" y="3" width="95" height="36">
+  662           <text id="11:62" name="Corporate" x="13" y="8" width="69" height="20" />
+  663         </frame>
+  664         <frame id="11:63" name="Frame" x="1044" y="3" width="89" height="36">
+  665           <text id="11:64" name="Stratégie" x="13" y="8" width="63" height="20" />
+  666         </frame>
+  667         <frame id="11:65" name="Frame" x="1163" y="3" width="109" height="36">
+  668           <text id="11:66" name="Événements" x="13" y="8" width="83" height="20" />
+  669         </frame>
+  670       </frame>
+  671       <frame id="11:67" name="Frame" x="84" y="160" width="1272" height="413">
+  672         <frame id="11:68" name="Frame" x="0" y="0" width="409.3333435058594" height="413">
+  673           <frame id="11:69" name="Frame" x="0" y="0" width="409.3333435058594" height="250">
+  674             <text id="11:70" name="PANGARAMA" x="18" y="18" width="56" height="12" />
+  675             <text id="11:71" name="MARCHÉS" x="18" y="48" width="44" height="12" />
+  676             <text id="11:72" name="01" x="18" y="130" width="49" height="136" />
+  677             <rounded-rectangle id="11:73" name="Rectangle" x="150" y="72" width="180" height="1" />
+  678             <rounded-rectangle id="11:74" name="Rectangle" x="150" y="102.66666412353516" width="180" height="1" />
+  679             <rounded-rectangle id="11:75" name="Rectangle" x="150" y="133.3333282470703" width="180" height="1" />
+  680             <rounded-rectangle id="11:76" name="Rectangle" x="150" y="164" width="180" height="1" />
+  681             <frame id="28:22" name="Illustration / Courbe continue" x="0" y="0" width="409.3333435058594" height="250">
+  682               <vector id="28:23" name="Vector" x="150" y="93.15999603271484" width="180" height="43.23999786376953" />
+  683             </frame>
+  684           </frame>
+  685           <text id="11:83" name="MARCHÉS · 6 min" x="0" y="263" width="120" height="20" />
+  686           <text id="11:84" name="Article / Titre" x="0" y="296" width="360" height="84" />
+  687           <text id="11:85" name="Lire →" x="0" y="393" width="45" height="20" />
+  688         </frame>
+  689         <frame id="11:86" name="Frame" x="431.3333435058594" y="0" width="409.33331298828125" height="413">
+  690           <frame id="11:87" name="Frame" x="0" y="0" width="409.33331298828125" height="250">
+  691             <text id="11:88" name="PANGARAMA" x="18" y="18" width="56" height="12" />
+  692             <text id="11:89" name="CORPORATE" x="18" y="48" width="54" height="12" />
+  693             <text id="11:90" name="02" x="18" y="130" width="59" height="136" />
+  694             <rounded-rectangle id="11:91" name="Rectangle" x="170" y="160" width="22" height="30" />
+  695             <rounded-rectangle id="11:92" name="Rectangle" x="202" y="140" width="22" height="50" />
+  696             <rounded-rectangle id="11:93" name="Rectangle" x="234" y="120" width="22" height="70" />
+  697             <rounded-rectangle id="11:94" name="Rectangle" x="266" y="100" width="22" height="90" />
+  698             <rounded-rectangle id="11:95" name="Rectangle" x="298" y="80" width="22" height="110" />
+  699           </frame>
+  700           <text id="11:96" name="CORPORATE · 5 min" x="0" y="263" width="136" height="20" />
+  701           <text id="11:97" name="Article / Titre" x="0" y="296" width="360" height="84" />
+  702           <text id="11:98" name="Lire →" x="0" y="393" width="45" height="20" />
+  703         </frame>
+  704         <frame id="11:99" name="Frame" x="862.6666259765625" y="0" width="409.33331298828125" height="413">
+  705           <frame id="11:100" name="Frame" x="0" y="0" width="409.33331298828125" height="250">
+  706             <text id="11:101" name="PANGARAMA" x="18" y="18" width="56" height="12" />
+  707             <text id="11:102" name="STRATÉGIE" x="18" y="48" width="48" height="12" />
+  708             <text id="11:103" name="03" x="18" y="130" width="57" height="136" />
+  709             <frame id="11:104" name="Frame" x="150" y="70" width="180" height="120" />
+  710           </frame>
+  711           <text id="11:107" name="STRATÉGIE · 8 min" x="0" y="263" width="126" height="20" />
+  712           <text id="11:108" name="Article / Titre" x="0" y="296" width="360" height="84" />
+  713           <text id="11:109" name="Lire →" x="0" y="393" width="45" height="20" />
+  714         </frame>
+  715       </frame>
+  716       <frame id="11:110" name="Frame" x="84" y="601" width="1272" height="413">
+  717         <frame id="11:111" name="Frame" x="0" y="0" width="409.3333435058594" height="413">
+  718           <frame id="11:112" name="Frame" x="0" y="0" width="409.3333435058594" height="250">
+  719             <text id="11:113" name="PANGARAMA" x="18" y="18" width="56" height="12" />
+  720             <text id="11:114" name="ÉVÉNEMENTS" x="18" y="48" width="59" height="12" />
+  721             <text id="11:115" name="04" x="18" y="130" width="58" height="136" />
+  722             <rounded-rectangle id="11:116" name="Rectangle" x="170" y="160" width="22" height="30" />
+  723             <rounded-rectangle id="11:117" name="Rectangle" x="202" y="140" width="22" height="50" />
+  724             <rounded-rectangle id="11:118" name="Rectangle" x="234" y="120" width="22" height="70" />
+  725             <rounded-rectangle id="11:119" name="Rectangle" x="266" y="100" width="22" height="90" />
+  726             <rounded-rectangle id="11:120" name="Rectangle" x="298" y="80" width="22" height="110" />
+  727           </frame>
+  728           <text id="11:121" name="ÉVÉNEMENTS · 7 min" x="0" y="263" width="142" height="20" />
+  729           <text id="11:122" name="Article / Titre" x="0" y="296" width="360" height="84" />
+  730           <text id="11:123" name="Lire →" x="0" y="393" width="45" height="20" />
+  731         </frame>
+  732         <frame id="11:124" name="Frame" x="431.3333435058594" y="0" width="409.33331298828125" height="413">
+  733           <frame id="11:125" name="Frame" x="0" y="0" width="409.33331298828125" height="250">
+  734             <text id="11:126" name="PANGARAMA" x="18" y="18" width="56" height="12" />
+  735             <text id="11:127" name="ÉTUDES" x="18" y="48" width="35" height="12" />
+  736             <text id="11:128" name="05" x="18" y="130" width="58" height="136" />
+  737             <frame id="11:129" name="Frame" x="150" y="70" width="180" height="120" />
+  738           </frame>
+  739           <text id="11:132" name="ÉTUDES · 6 min" x="0" y="263" width="106" height="20" />
+  740           <text id="11:133" name="Article / Titre" x="0" y="296" width="360" height="84" />
+  741           <text id="11:134" name="Lire →" x="0" y="393" width="45" height="20" />
+  742         </frame>
+  743         <frame id="11:135" name="Frame" x="862.6666259765625" y="0" width="409.33331298828125" height="413">
+  744           <frame id="11:136" name="Frame" x="0" y="0" width="409.33331298828125" height="250">
+  745             <text id="11:137" name="PANGARAMA" x="18" y="18" width="56" height="12" />
+  746             <text id="11:138" name="DÉVELOPPEMENT" x="18" y="48" width="76" height="12" />
+  747             <text id="11:139" name="06" x="18" y="130" width="59" height="136" />
+  748             <rounded-rectangle id="11:140" name="Rectangle" x="150" y="72" width="180" height="1" />
+  749             <rounded-rectangle id="11:141" name="Rectangle" x="150" y="102.66666412353516" width="180" height="1" />
+  750             <rounded-rectangle id="11:142" name="Rectangle" x="150" y="133.3333282470703" width="180" height="1" />
+  751             <rounded-rectangle id="11:143" name="Rectangle" x="150" y="164" width="180" height="1" />
+  752             <frame id="28:24" name="Illustration / Courbe continue" x="0" y="0" width="409.33331298828125" height="250">
+  753               <vector id="28:25" name="Vector" x="150" y="93.15999603271484" width="180" height="43.23999786376953" />
+  754             </frame>
+  755           </frame>
+  756           <text id="11:150" name="DÉVELOPPEMENT · 9 min" x="0" y="263" width="169" height="20" />
+  757           <text id="11:151" name="Article / Titre" x="0" y="296" width="360" height="84" />
+  758           <text id="11:152" name="Lire →" x="0" y="393" width="45" height="20" />
+  759         </frame>
+  760       </frame>
+  761     </frame>
+  762     <frame id="11:153" name="Frame" x="0" y="2428" width="1440" height="516">
+  763       <text id="11:154" name="RÉALISATIONS" x="84" y="90" width="238" height="17" />
+  764       <text id="11:155" name="Nos missions" x="84" y="135" width="950" height="47" />
+  765       <frame id="11:156" name="Frame" x="84" y="210" width="1272" height="216">
+  766         <frame id="11:157" name="Frame" x="0" y="0" width="1272" height="216">
+  767           <text id="11:158" name="À VENIR" x="22" y="24" width="48" height="17" />
+  768           <text id="11:159" name="Nos premières réalisations seront prochainement présentées ici." x="22" y="55" width="1160" height="28" />
+  769           <text id="11:160" name="Publication avec l’accord du client" x="22" y="97" width="1160" height="20" />
+  770           <text id="11:161" name="Découvrez progressivement les projets et missions réalisés par PANGARAMA aux côt" x="22" y="131" width="1160" height="25" />
+  771           <text id="11:162" name="Prochainement" x="22" y="170" width="103" height="20" />
+  772         </frame>
+  773         <frame id="11:163" name="Frame" x="1292" y="0" width="1" height="269" hidden="true">
+  774           <text id="11:164" name="02" x="22" y="24" width="16" height="17" />
+  775           <text id="11:165" name="Communication corporate" x="22" y="55" width="215" height="56" />
+  776           <text id="11:166" name="Pour une entreprise" x="22" y="125" width="135" height="20" />
+  777           <text id="11:167" name="Architecture éditoriale + contenus + publication institutionnelle" x="22" y="159" width="330" height="50" />
+  778           <text id="11:168" name="Voir le cas →" x="22" y="223" width="87" height="20" />
+  779         </frame>
+  780         <frame id="11:169" name="Frame" x="1292" y="0" width="1" height="269" hidden="true">
+  781           <text id="11:170" name="03" x="22" y="24" width="16" height="17" />
+  782           <text id="11:171" name="Forum professionnel" x="22" y="55" width="168" height="56" />
+  783           <text id="11:172" name="Pour une institution" x="22" y="125" width="136" height="20" />
+  784           <text id="11:173" name="Concept + programmation + mobilisation + expérience participants" x="22" y="159" width="330" height="50" />
+  785           <text id="11:174" name="Voir le cas →" x="22" y="223" width="87" height="20" />
+  786         </frame>
+  787       </frame>
+  788     </frame>
+  789     <frame id="11:175" name="Frame" x="0" y="2944" width="1440" height="247">
+  790       <text id="11:176" name="Un projet, un besoin, une ambition ?" x="270" y="76" width="900" height="47" />
+  791       <text id="11:177" name="Parler de votre projet  →" x="638.5" y="151" width="163" height="20" />
+  792     </frame>
+  793     <instance id="61:561" name="Pied de page / Site public" x="0" y="3191" width="1440" height="234" />

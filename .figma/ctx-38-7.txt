@@ -1,0 +1,223 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/afff37d8-8a45-42ec-b7ec-79ee0df58842";
+const imgFrame = `${assetPathPrefix}/e1886.svg`;
+const imgEllipse = `${assetPathPrefix}/c073f.svg`;
+const imgEllipse1 = `${assetPathPrefix}/ea8f3.svg`;
+const imgFrame1 = `${assetPathPrefix}/1f1e6.svg`;
+
+export default function Component11ExpertisesMobile() {
+  return (
+    <div className="bg-[var(--pg-ivory,#fdfdfb)] content-stretch flex flex-col items-start relative size-full" data-node-id="38:7" data-name="11 — Expertises — Mobile">
+      <div className="bg-[#fbf9f4] content-stretch flex flex-col items-start overflow-clip px-[20px] py-[18px] relative shrink-0 w-full" data-node-id="40:146" data-name="Frame">
+        <div className="content-stretch flex gap-[10px] items-center overflow-clip relative shrink-0 w-full" data-node-id="40:147" data-name="Frame">
+          <p className="[word-break:break-word] font-['Manrope:Bold'] font-bold leading-[1.35] relative shrink-0 text-[17px] text-[color:var(--pg-ink,#183129)] whitespace-nowrap" data-node-id="40:148">
+            PANGARAMA
+          </p>
+          <div className="flex-[1_0_0] h-px min-w-px relative" data-node-id="40:149" data-name="Frame" />
+          <div className="content-stretch flex flex-col gap-[5px] h-[20px] items-start overflow-clip relative shrink-0 w-[24px]" data-node-id="40:150" data-name="Frame">
+            <div className="bg-[var(--pg-ink,#183129)] h-px relative rounded-[1px] shrink-0 w-[24px]" data-node-id="40:151" data-name="Rectangle" />
+            <div className="bg-[var(--pg-ink,#183129)] h-px relative rounded-[1px] shrink-0 w-[24px]" data-node-id="40:152" data-name="Rectangle" />
+            <div className="bg-[var(--pg-ink,#183129)] h-px relative rounded-[1px] shrink-0 w-[24px]" data-node-id="40:153" data-name="Rectangle" />
+          </div>
+        </div>
+      </div>
+      <div className="[word-break:break-word] bg-[var(--pg-sand,#f2f5f1)] content-stretch flex flex-col gap-[16px] items-start overflow-clip px-[20px] py-[30px] relative shrink-0 w-full" data-node-id="40:154" data-name="Frame">
+        <p className="font-['Manrope:Bold'] font-bold leading-[1.35] relative shrink-0 text-[9px] text-[color:var(--pg-copper,#994a30)] whitespace-nowrap" data-node-id="40:155">
+          EXPERTISES
+        </p>
+        <div className="font-['Manrope:Bold'] font-bold leading-[0] relative shrink-0 text-[30px] text-[color:var(--pg-ink,#183129)] tracking-[-0.6px] w-[346px]" data-node-id="40:156">
+          <p className="leading-[1.18] mb-0">Quatre expertises complémentaires</p>
+          <p className="leading-[1.18]">au service des organisations.</p>
+        </div>
+        <p className="font-['Manrope:Regular'] font-normal leading-[1.55] relative shrink-0 text-[#636359] text-[13px] w-[346px]" data-node-id="40:157">
+          Communication, décision, engagement et développement : des expertises mobilisées selon vos enjeux.
+        </p>
+      </div>
+      <div className="[word-break:break-word] bg-[var(--pg-ivory,#fdfdfb)] content-stretch flex flex-col gap-[16px] items-start overflow-clip px-[20px] py-[30px] relative shrink-0 w-full" data-node-id="40:158" data-name="Frame">
+        <div className="bg-[var(--pg-ivory,#fdfdfb)] content-stretch flex flex-col gap-[8px] items-start overflow-clip p-[18px] relative rounded-[16px] shrink-0 w-full" data-node-id="40:159" data-name="Frame">
+          <p className="font-['Manrope:Bold'] font-bold leading-[1.35] relative shrink-0 text-[9px] text-[color:var(--pg-copper,#994a30)] whitespace-nowrap" data-node-id="40:160">
+            01
+          </p>
+          <p className="font-['Manrope:Bold'] font-bold leading-[1.18] relative shrink-0 text-[20px] text-[color:var(--pg-ink,#183129)] tracking-[-0.4px] w-[310px]" data-node-id="40:161">{`Communication financière & corporate`}</p>
+          <p className="font-['Manrope:Regular'] font-normal leading-[1.5] relative shrink-0 text-[#636359] text-[12px] w-[310px]" data-node-id="40:162">
+            Rendre votre information plus claire, accessible et utile à vos parties prenantes.
+          </p>
+        </div>
+        <div className="bg-[var(--pg-sand,#f2f5f1)] font-['Manrope:Bold'] font-bold h-[180px] overflow-clip relative rounded-[18px] shrink-0 w-[346px]" data-node-id="40:163" data-name="Frame">
+          <p className="absolute leading-[1.35] left-[16px] text-[8px] text-[color:var(--pg-ink,#183129)] top-[16px] whitespace-nowrap" data-node-id="40:164">
+            PANGARAMA
+          </p>
+          <p className="absolute leading-[1.35] left-[16px] text-[9px] text-[color:var(--pg-copper,#994a30)] top-[42px] whitespace-nowrap" data-node-id="40:165">
+            RAPPORT ANNUEL
+          </p>
+          <p className="absolute leading-[1.18] left-[16px] text-[36px] text-[color:var(--pg-ink,#183129)] top-[94px] tracking-[-0.72px] w-[42px]" data-node-id="40:166">
+            01
+          </p>
+        </div>
+        <p className="font-['Manrope:Regular'] font-normal leading-[1.55] relative shrink-0 text-[#636359] text-[12px] w-[346px]" data-node-id="40:167">
+          Communication financière • Rapports et publications • Présentations corporate • Contenus stratégiques
+        </p>
+      </div>
+      <div className="bg-[var(--pg-ink,#183129)] content-stretch flex flex-col gap-[16px] items-start overflow-clip px-[20px] py-[30px] relative shrink-0 w-full" data-node-id="40:168" data-name="Frame">
+        <div className="[word-break:break-word] bg-[var(--pg-ink,#183129)] content-stretch flex flex-col gap-[8px] items-start overflow-clip p-[18px] relative rounded-[16px] shrink-0 w-full" data-node-id="40:169" data-name="Frame">
+          <p className="font-['Manrope:Bold'] font-bold leading-[1.35] relative shrink-0 text-[#c79c57] text-[9px] whitespace-nowrap" data-node-id="40:170">
+            02
+          </p>
+          <p className="font-['Manrope:Bold'] font-bold leading-[1.18] relative shrink-0 text-[#f4efe5] text-[20px] tracking-[-0.4px] w-[310px]" data-node-id="40:171">{`Études & Intelligence stratégique`}</p>
+          <p className="font-['Manrope:Regular'] font-normal leading-[1.5] relative shrink-0 text-[#c4ccbf] text-[12px] w-[310px]" data-node-id="40:172">
+            Mieux comprendre pour mieux décider.
+          </p>
+        </div>
+        <div className="bg-[var(--pg-sand,#f2f5f1)] h-[220px] overflow-clip relative rounded-[20px] shrink-0 w-[346px]" data-node-id="40:173" data-name="Frame">
+          <div className="absolute h-[180px] left-[23px] top-[20px] w-[300px]" data-node-id="40:174" data-name="Frame">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame} />
+          </div>
+        </div>
+        <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[1.55] relative shrink-0 text-[#c4ccbf] text-[12px] w-[346px]" data-node-id="40:179">
+          Études de marché • Veille • Benchmarks • Cartographies • Enquêtes • Analyses d’opportunité
+        </p>
+      </div>
+      <div className="bg-[var(--pg-sand,#f2f5f1)] content-stretch flex flex-col gap-[16px] items-start overflow-clip px-[20px] py-[30px] relative shrink-0 w-full" data-node-id="40:180" data-name="Frame">
+        <div className="[word-break:break-word] bg-[var(--pg-ivory,#fdfdfb)] content-stretch flex flex-col gap-[8px] items-start overflow-clip p-[18px] relative rounded-[16px] shrink-0 w-full" data-node-id="40:181" data-name="Frame">
+          <p className="font-['Manrope:Bold'] font-bold leading-[1.35] relative shrink-0 text-[9px] text-[color:var(--pg-copper,#994a30)] whitespace-nowrap" data-node-id="40:182">
+            03
+          </p>
+          <p className="font-['Manrope:Bold'] font-bold leading-[1.18] relative shrink-0 text-[20px] text-[color:var(--pg-ink,#183129)] tracking-[-0.4px] w-[310px]" data-node-id="40:183">{`Événementiel & Engagement`}</p>
+          <p className="font-['Manrope:Regular'] font-normal leading-[1.5] relative shrink-0 text-[#636359] text-[12px] w-[310px]" data-node-id="40:184">
+            Créer des rencontres qui ont du sens.
+          </p>
+        </div>
+        <div className="bg-[var(--pg-ink,#183129)] h-[190px] overflow-clip relative rounded-[18px] shrink-0 w-[346px]" data-node-id="40:185" data-name="Frame">
+          <div className="absolute bg-[#f4efe5] h-[42px] left-[43px] rounded-[8px] top-[24px] w-[260px]" data-node-id="40:186" data-name="Rectangle" />
+          <p className="[word-break:break-word] absolute font-['Manrope:Bold'] font-bold leading-[1.35] left-[112px] text-[11px] text-[color:var(--pg-sand,#f2f5f1)] top-[39px] whitespace-nowrap" data-node-id="40:187">
+            PANGARAMA FORUM
+          </p>
+          <div className="absolute left-[52px] size-[10px] top-[96px]" data-node-id="40:188" data-name="Ellipse">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse} />
+          </div>
+          <div className="absolute left-[97px] size-[10px] top-[96px]" data-node-id="40:189" data-name="Ellipse">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse} />
+          </div>
+          <div className="absolute left-[142px] size-[10px] top-[96px]" data-node-id="40:190" data-name="Ellipse">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse} />
+          </div>
+          <div className="absolute left-[187px] size-[10px] top-[96px]" data-node-id="40:191" data-name="Ellipse">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse} />
+          </div>
+          <div className="absolute left-[232px] size-[10px] top-[96px]" data-node-id="40:192" data-name="Ellipse">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse} />
+          </div>
+          <div className="absolute left-[277px] size-[10px] top-[96px]" data-node-id="40:193" data-name="Ellipse">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse} />
+          </div>
+          <div className="absolute left-[52px] size-[10px] top-[124px]" data-node-id="40:194" data-name="Ellipse">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse} />
+          </div>
+          <div className="absolute left-[97px] size-[10px] top-[124px]" data-node-id="40:195" data-name="Ellipse">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse} />
+          </div>
+          <div className="absolute left-[142px] size-[10px] top-[124px]" data-node-id="40:196" data-name="Ellipse">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse1} />
+          </div>
+          <div className="absolute left-[187px] size-[10px] top-[124px]" data-node-id="40:197" data-name="Ellipse">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse} />
+          </div>
+          <div className="absolute left-[232px] size-[10px] top-[124px]" data-node-id="40:198" data-name="Ellipse">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse} />
+          </div>
+          <div className="absolute left-[277px] size-[10px] top-[124px]" data-node-id="40:199" data-name="Ellipse">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse} />
+          </div>
+          <div className="absolute left-[52px] size-[10px] top-[152px]" data-node-id="40:200" data-name="Ellipse">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse} />
+          </div>
+          <div className="absolute left-[97px] size-[10px] top-[152px]" data-node-id="40:201" data-name="Ellipse">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse} />
+          </div>
+          <div className="absolute left-[142px] size-[10px] top-[152px]" data-node-id="40:202" data-name="Ellipse">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse} />
+          </div>
+          <div className="absolute left-[187px] size-[10px] top-[152px]" data-node-id="40:203" data-name="Ellipse">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse} />
+          </div>
+          <div className="absolute left-[232px] size-[10px] top-[152px]" data-node-id="40:204" data-name="Ellipse">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse} />
+          </div>
+          <div className="absolute left-[277px] size-[10px] top-[152px]" data-node-id="40:205" data-name="Ellipse">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse} />
+          </div>
+        </div>
+      </div>
+      <div className="bg-[var(--pg-ink,#183129)] content-stretch flex flex-col gap-[16px] items-start overflow-clip px-[20px] py-[30px] relative shrink-0 w-full" data-node-id="40:206" data-name="Frame">
+        <div className="[word-break:break-word] bg-[var(--pg-ink,#183129)] content-stretch flex flex-col gap-[8px] items-start overflow-clip p-[18px] relative rounded-[16px] shrink-0 w-full" data-node-id="40:207" data-name="Frame">
+          <p className="font-['Manrope:Bold'] font-bold leading-[1.35] relative shrink-0 text-[#c79c57] text-[9px] whitespace-nowrap" data-node-id="40:208">
+            04
+          </p>
+          <p className="font-['Manrope:Bold'] font-bold leading-[1.18] relative shrink-0 text-[#f4efe5] text-[20px] tracking-[-0.4px] w-[310px]" data-node-id="40:209">{`Développement & Accompagnement`}</p>
+          <p className="font-['Manrope:Regular'] font-normal leading-[1.5] relative shrink-0 text-[#c4ccbf] text-[12px] w-[310px]" data-node-id="40:210">
+            Transformer les opportunités en projets.
+          </p>
+        </div>
+        <div className="bg-[var(--pg-ink,#183129)] h-[220px] overflow-clip relative rounded-[20px] shrink-0 w-[346px]" data-node-id="40:211" data-name="Frame">
+          <div className="absolute h-[180px] left-[23px] top-[20px] w-[300px]" data-node-id="40:212" data-name="Frame">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame1} />
+          </div>
+        </div>
+      </div>
+      <div className="bg-[var(--pg-ink,#183129)] content-stretch flex flex-col gap-[22px] items-start overflow-clip px-[20px] py-[28px] relative shrink-0 w-full" data-node-id="40:217" data-name="Frame">
+        <div className="[word-break:break-word] content-stretch flex flex-col gap-[5px] items-start leading-[1.45] overflow-clip relative shrink-0 w-full" data-node-id="167:934" data-name="Frame">
+          <p className="font-['Manrope:Bold'] font-bold relative shrink-0 text-[#edf0e5] text-[18px] whitespace-nowrap" data-node-id="167:935">
+            PANGARAMA
+          </p>
+          <p className="font-['Manrope:Medium'] font-medium relative shrink-0 text-[#b8c2b5] text-[11px] w-[350px]" data-node-id="167:936">
+            Comprendre. Valoriser. Développer.
+          </p>
+        </div>
+        <div className="[word-break:break-word] content-stretch flex flex-col font-['Manrope:Medium'] font-medium gap-[6px] items-start leading-[1.45] overflow-clip relative shrink-0 text-[#edf0e5] text-[11px] w-full whitespace-nowrap" data-node-id="167:937" data-name="Frame">
+          <p className="relative shrink-0" data-node-id="167:938">
+            Ouagadougou, Burkina Faso
+          </p>
+          <p className="relative shrink-0" data-node-id="167:939">
+            contact@pangarama.com
+          </p>
+          <p className="relative shrink-0" data-node-id="167:940">
+            +226 04009598
+          </p>
+        </div>
+        <div className="content-stretch flex flex-col gap-[10px] items-start overflow-clip relative shrink-0 w-full" data-node-id="167:941" data-name="Frame">
+          <p className="[word-break:break-word] font-['Manrope:Bold'] font-bold leading-[1.45] relative shrink-0 text-[#c79c57] text-[9px] whitespace-nowrap" data-node-id="167:942">
+            SUIVEZ PANGARAMA
+          </p>
+          <div className="content-stretch flex gap-[10px] items-start overflow-clip relative shrink-0" data-node-id="167:943" data-name="Frame">
+            <div className="border border-[#b8c2b5] border-solid content-stretch flex items-start overflow-clip px-[8px] py-[7px] relative rounded-[999px] shrink-0 size-[34px]" data-node-id="167:944" data-name="LinkedIn — URL officielle à confirmer">
+              <p className="[word-break:break-word] font-['Manrope:Bold'] font-bold leading-[1.45] relative shrink-0 text-[#edf0e5] text-[12px] whitespace-nowrap" data-node-id="167:945">
+                in
+              </p>
+            </div>
+            <div className="border border-[#b8c2b5] border-solid content-stretch flex items-start overflow-clip px-[8px] py-[7px] relative rounded-[999px] shrink-0 size-[34px]" data-node-id="167:946" data-name="Facebook — URL officielle à confirmer">
+              <p className="[word-break:break-word] font-['Manrope:Bold'] font-bold leading-[1.45] relative shrink-0 text-[#edf0e5] text-[12px] whitespace-nowrap" data-node-id="167:947">
+                f
+              </p>
+            </div>
+            <div className="border border-[#b8c2b5] border-solid content-stretch flex items-start overflow-clip pl-[9px] pr-[8px] py-[7px] relative rounded-[999px] shrink-0 size-[34px]" data-node-id="167:948" data-name="YouTube">
+              <a className="[word-break:break-word] block font-['Manrope:Bold'] font-bold leading-[0] relative shrink-0 text-[#edf0e5] text-[13px] whitespace-nowrap" href="https://www.youtube.com/channel/UC0sM5JqxPJDfL6VfjblRP4Q" data-node-id="167:949" target="_blank">
+                <p className="cursor-pointer leading-[1.45]">▶</p>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div className="[word-break:break-word] border-[#384f3d] border-solid border-t content-stretch flex flex-col font-['Manrope:Medium'] font-medium gap-[6px] items-start leading-[1.45] overflow-clip pt-[16px] relative shrink-0 text-[#b8c2b5] text-[10px] w-full" data-node-id="167:950" data-name="Frame">
+          <p className="relative shrink-0 w-[350px]" data-node-id="167:951">{`À propos • Expertises • Réalisations & Insights • Contact`}</p>
+          <p className="relative shrink-0 w-[350px]" data-node-id="167:952">
+            Mentions légales • Politique de confidentialité
+          </p>
+        </div>
+      </div>
+    </div>
+  );
+}SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.Images and SVGs will be stored as constants, e.g. const image = `${assetPathPrefix}/<asset file name>`, where assetPathPrefix is declared once at the top of the code and every asset URL interpolates it. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.

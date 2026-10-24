@@ -1,0 +1,25 @@
+ 1309     <frame id="40:50" name="Frame" x="0" y="1892" width="390" height="604">
+ 1310       <text id="40:51" name="ANALYSES • DÉCRYPTAGES • DONNÉES" x="20" y="30" width="117" height="24" />
+ 1311       <frame id="62:585" name="Photographie éditoriale / report" x="20" y="70" width="346" height="180">
+ 1312         <frame id="73:135" name="Visuel mobile / Field note" x="0" y="0" width="346" height="180">
+ 1313           <vector id="73:136" name="Vector" x="0" y="0" width="346" height="180" />
+ 1314           <vector id="73:137" name="Vector" x="17" y="18" width="311" height="144" />
+ 1315           <vector id="73:138" name="Vector" x="35" y="40" width="83" height="76" />
+ 1316           <vector id="73:139" name="Vector" x="131" y="61" width="166" height="9" />
+ 1317           <vector id="73:140" name="Vector" x="131" y="86" width="131" height="7" />
+ 1318           <vector id="73:141" name="Vector" x="131" y="90" width="153" height="40" />
+ 1319           <vector id="73:142" name="Vector" x="213" y="114" width="10" height="10" />
+ 1320         </frame>
+ 1321       </frame>
+ 1322       <text id="40:56" name="Burkina Faso : signaux, secteurs et nouvelles opportunités" x="20" y="266" width="346" height="48" />
+ 1323       <frame id="62:586" name="Photographie éditoriale / portrait" x="20" y="330" width="346" height="180">
+ 1324         <frame id="73:143" name="Visuel mobile / Editorial portrait" x="0" y="0" width="346" height="180">
+ 1325           <vector id="73:144" name="Vector" x="0" y="0" width="346" height="180" />
+ 1326           <vector id="73:145" name="Vector" x="17" y="14" width="311" height="151" />
+ 1327           <text id="73:146" name="FIELD OF VIEW" x="35" y="27" width="65" height="11" />
+ 1328           <vector id="73:147" name="Vector" x="35" y="54" width="269" height="83" />
+ 1329           <vector id="73:148" name="Vector" x="194" y="94" width="14" height="14" />
+ 1330           <text id="73:149" name="PANGA + RAMA" x="35" y="128" width="68" height="11" />
+ 1331         </frame>
+ 1332       </frame>
+ 1333       <text id="40:61" name="Pourquoi la communication financière devient un actif stratégique" x="20" y="526" width="346" height="48" />

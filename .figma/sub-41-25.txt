@@ -1,0 +1,16 @@
+ 1885   <frame id="41:25" name="15 — Contact — Confirmation" x="3120" y="4200" width="390" height="516">
+ 1886     <frame id="41:26" name="Frame" x="22" y="22" width="346" height="27">
+ 1887       <text id="41:27" name="Logo placeholder — remplacer par le logo définitif" x="0" y="1.5" width="112" height="24" />
+ 1888       <frame id="41:28" name="Frame" x="122" y="13" width="195" height="1" />
+ 1889       <text id="41:29" name="☰" x="327" y="0" width="19" height="27" />
+ 1890     </frame>
+ 1891     <frame id="41:30" name="Frame" x="22" y="73" width="346" height="355">
+ 1892       <ellipse id="41:31" name="Ellipse" x="24" y="30" width="48" height="48" />
+ 1893       <text id="41:32" name="✓" x="24" y="92" width="20" height="32" />
+ 1894       <text id="41:33" name="Merci pour votre message." x="24" y="138" width="298" height="62" />
+ 1895       <text id="41:34" name="Votre demande a bien été transmise à PANGARAMA. Nous reviendrons vers vous dans " x="24" y="214" width="298" height="60" />
+ 1896       <frame id="41:35" name="Frame" x="24" y="288" width="137" height="37">
+ 1897         <text id="41:36" name="Retour à l’accueil ↗" x="16" y="11" width="105" height="15" />
+ 1898       </frame>
+ 1899     </frame>
+ 1900     <text id="41:37" name="PANGARAMA • Ouagadougou, Burkina Faso • contact@pangarama.com • +226 04009598" x="22" y="452" width="346" height="32" />

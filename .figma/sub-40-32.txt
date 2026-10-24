@@ -1,0 +1,22 @@
+ 1286     <frame id="40:32" name="Frame" x="0" y="1230" width="390" height="662">
+ 1287       <text id="40:33" name="NOS EXPERTISES" x="20" y="30" width="75" height="12" />
+ 1288       <frame id="40:34" name="Frame" x="20" y="58" width="350" height="130">
+ 1289         <text id="40:35" name="01" x="18" y="18" width="10" height="12" />
+ 1290         <text id="40:36" name="Communication financière &amp; corporate" x="18" y="38" width="310" height="48" />
+ 1291         <text id="40:37" name="Valoriser l’entreprise, ses performances et ses projets." x="18" y="94" width="310" height="18" />
+ 1292       </frame>
+ 1293       <frame id="40:38" name="Frame" x="20" y="204" width="350" height="124">
+ 1294         <text id="40:39" name="02" x="18" y="18" width="12" height="12" />
+ 1295         <text id="40:40" name="Études &amp; Intelligence stratégique" x="18" y="38" width="310" height="24" />
+ 1296         <text id="40:41" name="Transformer l’information en connaissance utile à la décision." x="18" y="70" width="310" height="36" />
+ 1297       </frame>
+ 1298       <frame id="40:42" name="Frame" x="20" y="344" width="350" height="124">
+ 1299         <text id="40:43" name="03" x="18" y="18" width="12" height="12" />
+ 1300         <text id="40:44" name="Événementiel &amp; Engagement" x="18" y="38" width="310" height="24" />
+ 1301         <text id="40:45" name="Créer des rencontres qui rapprochent les organisations de leurs publics." x="18" y="70" width="310" height="36" />
+ 1302       </frame>
+ 1303       <frame id="40:46" name="Frame" x="20" y="484" width="350" height="148">
+ 1304         <text id="40:47" name="04" x="18" y="18" width="12" height="12" />
+ 1305         <text id="40:48" name="Développement &amp; Accompagnement" x="18" y="38" width="310" height="48" />
+ 1306         <text id="40:49" name="Identifier les opportunités et accompagner de nouveaux projets." x="18" y="94" width="310" height="36" />
+ 1307       </frame>

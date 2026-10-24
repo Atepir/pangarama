@@ -1,0 +1,120 @@
+<frame id="38:7" name="11 — Expertises — Mobile" x="1040" y="4200" width="390" height="2414">
+  <frame id="40:146" name="Frame" x="0" y="0" width="390" height="59">
+    <frame id="40:147" name="Frame" x="20" y="18" width="350" height="23">
+      <text id="40:148" name="Logo placeholder — remplacer par le logo définitif" x="0" y="0" width="106" height="23" />
+      <frame id="40:149" name="Frame" x="116" y="11" width="200" height="1" />
+      <frame id="40:150" name="Frame" x="326" y="1.5" width="24" height="20">
+        <rounded-rectangle id="40:151" name="Rectangle" x="0" y="0" width="24" height="1" />
+        <rounded-rectangle id="40:152" name="Rectangle" x="0" y="6" width="24" height="1" />
+        <rounded-rectangle id="40:153" name="Rectangle" x="0" y="12" width="24" height="1" />
+      </frame>
+    </frame>
+  </frame>
+  <frame id="40:154" name="Frame" x="0" y="59" width="390" height="304">
+    <text id="40:155" name="EXPERTISES" x="20" y="30" width="54" height="12" />
+    <text id="40:156" name="Des expertises complémentaires" x="20" y="58" width="346" height="140" />
+    <text id="40:157" name="Communication, décision, engagement et développement : quatre expertises mobilis" x="20" y="214" width="346" height="60" />
+  </frame>
+  <frame id="40:158" name="Frame" x="0" y="363" width="390" height="458">
+    <frame id="40:159" name="Frame" x="20" y="30" width="350" height="148">
+      <text id="40:160" name="01" x="18" y="18" width="10" height="12" />
+      <text id="40:161" name="Communication financière &amp; corporate" x="18" y="38" width="310" height="48" />
+      <text id="40:162" name="Rendre votre information plus claire, accessible et utile à vos parties prenante" x="18" y="94" width="310" height="36" />
+    </frame>
+    <frame id="40:163" name="Frame" x="20" y="194" width="346" height="180">
+      <text id="40:164" name="PANGARAMA" x="16" y="16" width="50" height="11" />
+      <text id="40:165" name="RAPPORT ANNUEL" x="16" y="42" width="79" height="12" />
+      <text id="40:166" name="01" x="16" y="94" width="42" height="42" />
+    </frame>
+    <text id="40:167" name="Communication financière • Rapports et publications • Présentations corporate • " x="20" y="390" width="346" height="38" />
+  </frame>
+  <frame id="40:168" name="Frame" x="0" y="821" width="390" height="456">
+    <frame id="40:169" name="Frame" x="20" y="30" width="350" height="106">
+      <text id="40:170" name="02" x="18" y="18" width="12" height="12" />
+      <text id="40:171" name="Études &amp; Intelligence stratégique" x="18" y="38" width="310" height="24" />
+      <text id="40:172" name="Mieux comprendre pour mieux décider." x="18" y="70" width="310" height="18" />
+    </frame>
+    <frame id="40:173" name="Frame" x="20" y="152" width="346" height="220">
+      <frame id="40:174" name="Frame" x="23" y="20" width="300" height="180">
+        <vector id="40:175" name="Vector" x="27" y="19" width="243" height="155" />
+        <vector id="40:176" name="Vector" x="68" y="70.55294799804688" width="182" height="47.44705581665039" />
+        <vector id="40:177" name="Vector" x="143" y="96" width="14" height="14" />
+        <vector id="40:178" name="Vector" x="210" y="71" width="10" height="10" />
+      </frame>
+    </frame>
+    <text id="40:179" name="Études de marché • Veille • Benchmarks • Cartographies • Enquêtes • Analyses d’o" x="20" y="388" width="346" height="38" />
+  </frame>
+  <frame id="40:180" name="Frame" x="0" y="1277" width="390" height="372">
+    <frame id="40:181" name="Frame" x="20" y="30" width="350" height="106">
+      <text id="40:182" name="03" x="18" y="18" width="12" height="12" />
+      <text id="40:183" name="Événementiel &amp; Engagement" x="18" y="38" width="310" height="24" />
+      <text id="40:184" name="Créer des rencontres qui ont du sens." x="18" y="70" width="310" height="18" />
+    </frame>
+    <frame id="40:185" name="Frame" x="20" y="152" width="346" height="190">
+      <rounded-rectangle id="40:186" name="Rectangle" x="43" y="24" width="260" height="42" />
+      <text id="40:187" name="PANGARAMA FORUM" x="112" y="39" width="110" height="15" />
+      <ellipse id="40:188" name="Ellipse" x="52" y="96" width="10" height="10" />
+      <ellipse id="40:189" name="Ellipse" x="97" y="96" width="10" height="10" />
+      <ellipse id="40:190" name="Ellipse" x="142" y="96" width="10" height="10" />
+      <ellipse id="40:191" name="Ellipse" x="187" y="96" width="10" height="10" />
+      <ellipse id="40:192" name="Ellipse" x="232" y="96" width="10" height="10" />
+      <ellipse id="40:193" name="Ellipse" x="277" y="96" width="10" height="10" />
+      <ellipse id="40:194" name="Ellipse" x="52" y="124" width="10" height="10" />
+      <ellipse id="40:195" name="Ellipse" x="97" y="124" width="10" height="10" />
+      <ellipse id="40:196" name="Ellipse" x="142" y="124" width="10" height="10" />
+      <ellipse id="40:197" name="Ellipse" x="187" y="124" width="10" height="10" />
+      <ellipse id="40:198" name="Ellipse" x="232" y="124" width="10" height="10" />
+      <ellipse id="40:199" name="Ellipse" x="277" y="124" width="10" height="10" />
+      <ellipse id="40:200" name="Ellipse" x="52" y="152" width="10" height="10" />
+      <ellipse id="40:201" name="Ellipse" x="97" y="152" width="10" height="10" />
+      <ellipse id="40:202" name="Ellipse" x="142" y="152" width="10" height="10" />
+      <ellipse id="40:203" name="Ellipse" x="187" y="152" width="10" height="10" />
+      <ellipse id="40:204" name="Ellipse" x="232" y="152" width="10" height="10" />
+      <ellipse id="40:205" name="Ellipse" x="277" y="152" width="10" height="10" />
+    </frame>
+  </frame>
+  <frame id="40:206" name="Frame" x="0" y="1649" width="390" height="426">
+    <frame id="40:207" name="Frame" x="20" y="30" width="350" height="130">
+      <text id="40:208" name="04" x="18" y="18" width="12" height="12" />
+      <text id="40:209" name="Développement &amp; Accompagnement" x="18" y="38" width="310" height="48" />
+      <text id="40:210" name="Transformer les opportunités en projets." x="18" y="94" width="310" height="18" />
+    </frame>
+    <frame id="40:211" name="Frame" x="20" y="176" width="346" height="220">
+      <frame id="40:212" name="Frame" x="23" y="20" width="300" height="180">
+        <vector id="40:213" name="Vector" x="27" y="19" width="243" height="155" />
+        <vector id="40:214" name="Vector" x="68" y="70.55294799804688" width="182" height="47.44705581665039" />
+        <vector id="40:215" name="Vector" x="143" y="96" width="14" height="14" />
+        <vector id="40:216" name="Vector" x="210" y="71" width="10" height="10" />
+      </frame>
+    </frame>
+  </frame>
+  <frame id="40:217" name="Frame" x="0" y="2075" width="390" height="339">
+    <frame id="167:934" name="Frame" x="20" y="28" width="350" height="47">
+      <text id="167:935" name="PANGARAMA" x="0" y="0" width="112" height="26" />
+      <text id="167:936" name="Comprendre. Valoriser. Développer." x="0" y="31" width="350" height="16" />
+    </frame>
+    <frame id="167:937" name="Frame" x="20" y="97" width="350" height="60">
+      <text id="167:938" name="Ouagadougou, Burkina Faso" x="0" y="0" width="144" height="16" />
+      <text id="167:939" name="contact@pangarama.com" x="0" y="22" width="134" height="16" />
+      <text id="167:940" name="+226 04009598" x="0" y="44" width="82" height="16" />
+    </frame>
+    <frame id="167:941" name="Frame" x="20" y="179" width="350" height="57">
+      <text id="167:942" name="SUIVEZ PANGARAMA" x="0" y="0" width="90" height="13" />
+      <frame id="167:943" name="Frame" x="0" y="23" width="122" height="34">
+        <frame id="167:944" name="LinkedIn — URL officielle à confirmer" x="0" y="0" width="34" height="34">
+          <text id="167:945" name="in" x="9" y="8" width="11" height="17" />
+        </frame>
+        <frame id="167:946" name="Facebook — URL officielle à confirmer" x="44" y="0" width="34" height="34">
+          <text id="167:947" name="f" x="9" y="8" width="5" height="17" />
+        </frame>
+        <frame id="167:948" name="YouTube" x="88" y="0" width="34" height="34">
+          <text id="167:949" name="▶" x="10" y="8" width="13" height="19" />
+        </frame>
+      </frame>
+    </frame>
+    <frame id="167:950" name="Frame" x="20" y="258" width="350" height="53">
+      <text id="167:951" name="À propos • Expertises • Réalisations &amp; Insights • Contact" x="0" y="17" width="350" height="15" />
+      <text id="167:952" name="Mentions légales • Politique de confidentialité" x="0" y="38" width="350" height="15" />
+    </frame>
+  </frame>
+</frame>IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

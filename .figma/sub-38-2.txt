@@ -1,0 +1,109 @@
+  913   <frame id="38:2" name="06 — Expertise détail — Desktop" x="8200" y="0" width="1440" height="2335">
+  914     <instance id="61:588" name="Navigation / Site public" x="0" y="0" width="1440" height="90" />
+  915     <frame id="39:11" name="Frame" x="0" y="90" width="1440" height="519">
+  916       <text id="39:12" name="EXPERTISE 01" x="84" y="74" width="73" height="15" />
+  917       <frame id="39:13" name="Frame" x="84" y="115" width="1272" height="330">
+  918         <frame id="39:14" name="Frame" x="0" y="28" width="716" height="274">
+  919           <text id="39:15" name="Communication financière &amp; corporate" x="0" y="0" width="650" height="204" />
+  920           <text id="39:16" name="Structurer l’information, renforcer la confiance et produire des contenus institutionnels à la hauteur des enjeux de l’organisation." x="0" y="222" width="610" height="52" />
+  921         </frame>
+  922         <frame id="39:17" name="Frame" x="772" y="0" width="500" height="330">
+  923           <frame id="39:18" name="Frame" x="42" y="30" width="235" height="272">
+  924             <text id="39:19" name="PANGARAMA" x="18" y="18" width="56" height="12" />
+  925             <text id="39:20" name="RAPPORT ANNUEL" x="18" y="58" width="180" height="66" />
+  926             <rounded-rectangle id="39:21" name="Rectangle" x="18" y="170" width="70" height="6" />
+  927             <rounded-rectangle id="39:22" name="Rectangle" x="18" y="188" width="92" height="6" />
+  928             <rounded-rectangle id="39:23" name="Rectangle" x="18" y="206" width="114" height="6" />
+  929             <rounded-rectangle id="39:24" name="Rectangle" x="18" y="224" width="136" height="6" />
+  930           </frame>
+  931           <rounded-rectangle id="39:25" name="Rectangle" x="315" y="208" width="24" height="42" />
+  932           <rounded-rectangle id="39:26" name="Rectangle" x="347" y="186" width="24" height="64" />
+  933           <rounded-rectangle id="39:27" name="Rectangle" x="379" y="164" width="24" height="86" />
+  934           <rounded-rectangle id="39:28" name="Rectangle" x="411" y="142" width="24" height="108" />
+  935           <rounded-rectangle id="39:29" name="Rectangle" x="443" y="120" width="24" height="130" />
+  936         </frame>
+  937       </frame>
+  938     </frame>
+  939     <frame id="39:30" name="Frame" x="0" y="609" width="1440" height="433">
+  940       <frame id="39:31" name="Frame" x="84" y="88" width="1272" height="257">
+  941         <frame id="39:32" name="Frame" x="0" y="0" width="782" height="257">
+  942           <text id="39:33" name="QUAND NOUS SOLLICITER" x="0" y="0" width="137" height="15" />
+  943           <text id="39:34" name="Quand une organisation doit expliquer, convaincre ou rassurer." x="0" y="31" width="620" height="141" />
+  944           <text id="39:35" name="Publication de résultats, rapport annuel, prise de parole institutionnelle, dialogue avec les investisseurs et partenaires financiers, transformation importante ou besoin de professionnaliser la communication corporate." x="0" y="188" width="600" height="69" />
+  945         </frame>
+  946         <frame id="39:36" name="Frame" x="852" y="0" width="420" height="151">
+  947           <frame id="39:37" name="Frame" x="0" y="0" width="420" height="19">
+  948             <text id="39:38" name="01" x="0" y="0" width="11" height="14" />
+  949             <text id="39:39" name="Communication financière" x="21" y="0" width="175" height="19" />
+  950           </frame>
+  951           <frame id="39:40" name="Frame" x="0" y="33" width="420" height="19">
+  952             <text id="39:41" name="02" x="0" y="0" width="13" height="14" />
+  953             <text id="39:42" name="Rapports annuels et d’activité" x="23" y="0" width="197" height="19" />
+  954           </frame>
+  955           <frame id="39:43" name="Frame" x="0" y="66" width="420" height="19">
+  956             <text id="39:44" name="03" x="0" y="0" width="13" height="14" />
+  957             <text id="39:45" name="Présentations investisseurs" x="23" y="0" width="184" height="19" />
+  958           </frame>
+  959           <frame id="39:46" name="Frame" x="0" y="99" width="420" height="19">
+  960             <text id="39:47" name="04" x="0" y="0" width="13" height="14" />
+  961             <text id="39:48" name="Contenus corporate" x="23" y="0" width="133" height="19" />
+  962           </frame>
+  963           <frame id="39:49" name="Frame" x="0" y="132" width="420" height="19">
+  964             <text id="39:50" name="05" x="0" y="0" width="13" height="14" />
+  965             <text id="39:51" name="Communication parties prenantes" x="23" y="0" width="225" height="19" />
+  966           </frame>
+  967         </frame>
+  968       </frame>
+  969     </frame>
+  970     <frame id="39:52" name="Frame" x="0" y="1042" width="1440" height="469">
+  971       <text id="39:53" name="NOTRE MÉTHODE" x="84" y="88" width="92" height="15" />
+  972       <text id="39:54" name="Du message au support final." x="84" y="129" width="429" height="94" />
+  973       <frame id="39:55" name="Frame" x="84" y="249" width="1272" height="132">
+  974         <frame id="39:56" name="Frame" x="0" y="0" width="318" height="113">
+  975           <text id="39:57" name="01" x="0" y="20" width="11" height="14" />
+  976           <text id="39:58" name="Cadrer" x="0" y="44" width="120" height="20" />
+  977           <text id="39:59" name="Objectifs, publics, obligations et calendrier." x="0" y="74" width="260" height="19" />
+  978         </frame>
+  979         <frame id="39:60" name="Frame" x="318" y="0" width="318" height="132">
+  980           <text id="39:61" name="02" x="22" y="20" width="13" height="14" />
+  981           <text id="39:62" name="Structurer" x="22" y="44" width="145" height="20" />
+  982           <text id="39:63" name="Architecture du message et hiérarchie de l’information." x="22" y="74" width="260" height="38" />
+  983         </frame>
+  984         <frame id="39:64" name="Frame" x="636" y="0" width="318" height="113">
+  985           <text id="39:65" name="03" x="22" y="20" width="13" height="14" />
+  986           <text id="39:66" name="Produire" x="22" y="44" width="135" height="20" />
+  987           <text id="39:67" name="Rédaction, design éditorial et supports." x="22" y="74" width="260" height="19" />
+  988         </frame>
+  989         <frame id="39:68" name="Frame" x="954" y="0" width="318" height="132">
+  990           <text id="39:69" name="04" x="22" y="20" width="13" height="14" />
+  991           <text id="39:70" name="Valider" x="22" y="44" width="125" height="20" />
+  992           <text id="39:71" name="Contrôle qualité, cohérence et préparation à la diffusion." x="22" y="74" width="260" height="38" />
+  993         </frame>
+  994       </frame>
+  995     </frame>
+  996     <frame id="39:72" name="Frame" x="0" y="1511" width="1440" height="316">
+  997       <text id="39:73" name="LIVRABLES TYPES" x="84" y="88" width="94" height="15" />
+  998       <frame id="39:74" name="Frame" x="84" y="129" width="1272" height="99">
+  999         <frame id="39:75" name="Frame" x="0" y="0" width="304.5" height="99">
+ 1000           <text id="39:76" name="01" x="20" y="24" width="11" height="14" />
+ 1001           <text id="39:77" name="Rapport annuel" x="20" y="48" width="147" height="27" />
+ 1002         </frame>
+ 1003         <frame id="39:78" name="Frame" x="322.5" y="0" width="304.5" height="99">
+ 1004           <text id="39:79" name="02" x="20" y="24" width="13" height="14" />
+ 1005           <text id="39:80" name="Présentation investisseurs" x="20" y="48" width="258" height="27" />
+ 1006         </frame>
+ 1007         <frame id="39:81" name="Frame" x="645" y="0" width="304.5" height="99">
+ 1008           <text id="39:82" name="03" x="20" y="24" width="13" height="14" />
+ 1009           <text id="39:83" name="Kit corporate" x="20" y="48" width="125" height="27" />
+ 1010         </frame>
+ 1011         <frame id="39:84" name="Frame" x="967.5" y="0" width="304.5" height="99">
+ 1012           <text id="39:85" name="04" x="20" y="24" width="13" height="14" />
+ 1013           <text id="39:86" name="Rapport d’activité" x="20" y="48" width="171" height="27" />
+ 1014         </frame>
+ 1015       </frame>
+ 1016     </frame>
+ 1017     <frame id="39:87" name="Frame" x="0" y="1827" width="1440" height="274">
+ 1018       <text id="39:88" name="Un besoin de communication financière ou corporate ?" x="220" y="68" width="1000" height="94" />
+ 1019       <text id="39:89" name="Échanger avec PANGARAMA ↗" x="623" y="188" width="194" height="18" />
+ 1020     </frame>
+ 1021     <instance id="61:599" name="Pied de page / Site public" x="0" y="2101" width="1440" height="234" />

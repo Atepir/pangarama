@@ -1,0 +1,11 @@
+ 1960   <frame id="88:198" name="18 — Page 404 — Desktop" x="16400" y="0" width="1440" height="998">
+ 1961     <instance id="88:199" name="Navigation / Site public" x="0" y="0" width="1440" height="90" />
+ 1962     <frame id="88:210" name="404 / État" x="0" y="90" width="1440" height="674">
+ 1963       <text id="88:211" name="404" x="607.5" y="150" width="225" height="164" />
+ 1964       <text id="88:212" name="Page introuvable" x="523" y="338" width="394" height="66" />
+ 1965       <text id="88:213" name="Le contenu recherché n’existe pas ou a été déplacé." x="506" y="428" width="428" height="25" />
+ 1966       <frame id="88:214" name="Bouton / Retour accueil" x="631" y="477" width="178" height="47">
+ 1967         <text id="88:215" name="Retour à l’accueil →" x="22" y="14" width="134" height="19" />
+ 1968       </frame>
+ 1969     </frame>
+ 1970     <instance id="88:216" name="Pied de page / Site public" x="0" y="764" width="1440" height="234" />

@@ -1,0 +1,92 @@
+ 1023   <frame id="38:3" name="07 — Insight / Article — Desktop" x="9840" y="0" width="1440" height="2404">
+ 1024     <instance id="61:607" name="Navigation / Site public" x="0" y="0" width="1440" height="90" />
+ 1025     <frame id="39:106" name="Frame" x="0" y="90" width="1440" height="457">
+ 1026       <text id="39:107" name="EXEMPLE DE PUBLICATION · CONTENU À VALIDER" x="84" y="74" width="255" height="15" />
+ 1027       <text id="39:108" name="Burkina Faso : signaux, secteurs et nouvelles opportunités" x="84" y="115" width="980" height="136" />
+ 1028       <text id="39:109" name="Une lecture synthétique des dynamiques à suivre pour les entreprises, institutions et investisseurs." x="84" y="277" width="760" height="52" />
+ 1029       <frame id="39:110" name="Frame" x="84" y="355" width="1272" height="28">
+ 1030         <frame id="39:111" name="Frame" x="0" y="0" width="101" height="28">
+ 1031           <text id="39:112" name="8 min de lecture" x="12" y="7" width="77" height="14" />
+ 1032         </frame>
+ 1033         <frame id="39:113" name="Frame" x="121" y="0" width="174" height="28">
+ 1034           <text id="39:114" name="Auteur · PANGARAMA" x="12" y="7" width="150" height="14" />
+ 1035         </frame>
+ 1036         <frame id="39:115" name="Frame" x="315" y="0" width="163" height="28">
+ 1037           <text id="39:116" name="Date de publication · À définir" x="12" y="7" width="139" height="14" />
+ 1038         </frame>
+ 1039       </frame>
+ 1040     </frame>
+ 1041     <frame id="39:117" name="Frame" x="0" y="547" width="1440" height="778">
+ 1042       <frame id="39:118" name="Frame" x="84" y="84" width="1272" height="610">
+ 1043         <frame id="39:119" name="Sommaire latéral — sticky au scroll" x="0" y="0" width="260" height="164">
+ 1044           <text id="39:120" name="DANS CETTE NOTE" x="0" y="0" width="90" height="14" />
+ 1045           <text id="39:121" name="01 Contexte" x="0" y="26" width="76" height="18" />
+ 1046           <text id="39:122" name="02 Signaux à suivre" x="0" y="56" width="120" height="18" />
+ 1047           <text id="39:123" name="03 Secteurs observés" x="0" y="86" width="135" height="18" />
+ 1048           <text id="39:124" name="04 Points d’attention" x="0" y="116" width="131" height="18" />
+ 1049           <text id="39:125" name="05 Implications" x="0" y="146" width="96" height="18" />
+ 1050         </frame>
+ 1051         <frame id="39:126" name="Frame" x="328" y="0" width="944" height="610">
+ 1052           <text id="39:127" name="Une économie à lire à travers plusieurs signaux" x="0" y="0" width="760" height="33" />
+ 1053           <text id="39:128" name="L’objectif de cette note n’est pas de prédire le marché, mais de rassembler des signaux utiles à la décision. Activité sectorielle, investissements visibles, évolution de la demande, projets structurants et mouvements d’acteurs peuvent être lus ensemble pour mieux comprendre la trajectoire du marché." x="0" y="57" width="760" height="78" />
+ 1054           <frame id="39:129" name="Frame" x="0" y="159" width="734" height="96">
+ 1055             <text id="39:130" name="« Une bonne lecture de marché ne repose pas sur un chiffre isolé, mais sur la convergence de plusieurs signaux. »" x="22" y="20" width="690" height="56" />
+ 1056           </frame>
+ 1057           <text id="39:131" name="Trois signaux particulièrement utiles" x="0" y="279" width="371" height="66" />
+ 1058           <frame id="39:132" name="Frame" x="0" y="369" width="740" height="49">
+ 1059             <text id="39:133" name="01 Investissements et projets structurants" x="0" y="0" width="313" height="20" />
+ 1060             <text id="39:134" name="Suivre les projets visibles permet d’identifier les secteurs qui concentrent l’attention et les ressources." x="0" y="26" width="740" height="23" />
+ 1061           </frame>
+ 1062           <frame id="39:135" name="Frame" x="0" y="442" width="740" height="72">
+ 1063             <text id="39:136" name="02 Mouvements d’acteurs" x="0" y="0" width="191" height="20" />
+ 1064             <text id="39:137" name="Nouveaux entrants, partenariats et repositionnements donnent des indications sur l’évolution concurrentielle." x="0" y="26" width="740" height="46" />
+ 1065           </frame>
+ 1066           <frame id="39:138" name="Frame" x="0" y="538" width="740" height="72">
+ 1067             <text id="39:139" name="03 Évolution des usages" x="0" y="0" width="179" height="20" />
+ 1068             <text id="39:140" name="Les changements de comportement et de demande révèlent parfois les opportunités avant les statistiques consolidées." x="0" y="26" width="740" height="46" />
+ 1069           </frame>
+ 1070         </frame>
+ 1071       </frame>
+ 1072     </frame>
+ 1073     <frame id="39:141" name="Frame" x="0" y="1325" width="1440" height="285">
+ 1074       <text id="39:142" name="À RETENIR" x="84" y="78" width="55" height="15" />
+ 1075       <frame id="39:143" name="Frame" x="84" y="119" width="1272" height="88">
+ 1076         <frame id="39:144" name="Frame" x="0" y="0" width="412" height="88">
+ 1077           <text id="39:145" name="01" x="22" y="24" width="11" height="14" />
+ 1078           <text id="39:146" name="Lire les signaux en combinaison" x="22" y="38" width="320" height="26" />
+ 1079         </frame>
+ 1080         <frame id="39:147" name="Frame" x="430" y="0" width="412" height="88">
+ 1081           <text id="39:148" name="02" x="22" y="24" width="13" height="14" />
+ 1082           <text id="39:149" name="Distinguer tendance et bruit" x="22" y="38" width="320" height="26" />
+ 1083         </frame>
+ 1084         <frame id="39:150" name="Frame" x="860" y="0" width="412" height="88">
+ 1085           <text id="39:151" name="03" x="22" y="24" width="13" height="14" />
+ 1086           <text id="39:152" name="Relier observation et décision" x="22" y="38" width="320" height="26" />
+ 1087         </frame>
+ 1088       </frame>
+ 1089     </frame>
+ 1090     <frame id="39:153" name="Frame" x="0" y="1610" width="1440" height="474">
+ 1091       <frame id="39:154" name="Frame" x="84" y="72" width="1272" height="330">
+ 1092         <frame id="39:155" name="Frame" x="0" y="0" width="722" height="156">
+ 1093           <text id="39:156" name="ALLER PLUS LOIN" x="25" y="20" width="90" height="15" />
+ 1094           <text id="39:157" name="Besoin d’une étude adaptée à votre décision ?" x="25" y="47" width="650" height="33" />
+ 1095           <text id="39:158" name="PANGARAMA réalise des études de marché, benchmarks, cartographies d’acteurs et analyses sectorielles sur mesure." x="25" y="92" width="620" height="44" />
+ 1096         </frame>
+ 1097         <frame id="39:159" name="Frame" x="772" y="0" width="500" height="330">
+ 1098           <frame id="39:160" name="Frame" x="40" y="28" width="420" height="260">
+ 1099             <vector id="39:161" name="Vector" x="34" y="27" width="331" height="233" />
+ 1100             <vector id="39:162" name="Vector" x="102" y="96.35002899169922" width="238" height="70.64997100830078" />
+ 1101             <vector id="39:163" name="Vector" x="196" y="136" width="18" height="18" />
+ 1102             <vector id="39:164" name="Vector" x="279" y="97" width="12" height="12" />
+ 1103             <vector id="39:165" name="Vector" x="123" y="190" width="12" height="12" />
+ 1104           </frame>
+ 1105           <text id="39:166" name="Burkina Faso • Afrique de l’Ouest" x="130" y="282" width="159" height="14" />
+ 1106         </frame>
+ 1107       </frame>
+ 1108     </frame>
+ 1109     <frame id="131:172" name="Partage &amp; autres analyses" x="0" y="2084" width="1440" height="86">
+ 1110       <text id="131:173" name="Partager sur LinkedIn ↗" x="84" y="34" width="150" height="18" />
+ 1111       <frame id="131:174" name="Frame" x="254" y="42.5" width="877" height="1" />
+ 1112       <text id="131:175" name="Découvrir nos autres analyses →" x="1151" y="34" width="205" height="18" />
+ 1113     </frame>
+ 1114     <instance id="61:618" name="Pied de page / Site public" x="0" y="2170" width="1440" height="234" />

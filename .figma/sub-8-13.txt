@@ -1,0 +1,31 @@
+    4     <frame id="8:13" name="Accueil / Introduction" x="0" y="90" width="1440" height="809">
+    5       <frame id="8:14" name="Frame" x="72" y="52" width="1296" height="705">
+    6         <frame id="8:15" name="Frame" x="0" y="0" width="690" height="705">
+    7           <text id="8:16" name="COMPRENDRE • VALORISER • DÉVELOPPER" x="0" y="0" width="650" height="19" />
+    8           <text id="8:17" name="L’information, la communication et l’expertise" x="0" y="47" width="650" height="438" />
+    9           <text id="8:18" name="PANGARAMA accompagne les entreprises, institutions et organisations dans la comp" x="0" y="513" width="550" height="116" />
+   10           <frame id="8:19" name="Frame" x="0" y="657" width="362" height="48">
+   11             <frame id="8:20" name="Frame" x="0" y="0" width="206" height="48">
+   12               <text id="8:21" name="Découvrir nos expertises" x="20" y="14" width="166" height="20" />
+   13             </frame>
+   14             <frame id="8:22" name="Frame" x="218" y="0" width="144" height="48">
+   15               <text id="8:23" name="Nous contacter" x="20" y="14" width="104" height="20" />
+   16             </frame>
+   17           </frame>
+   18         </frame>
+   19         <frame id="62:121" name="Photographie éditoriale / portrait" x="746" y="62.5" width="550" height="580">
+   20           <frame id="68:121" name="Visuel éditorial / Strategic intelligence" x="0" y="0" width="550" height="580">
+   21             <vector id="68:122" name="Vector" x="0" y="0" width="550" height="580" />
+   22             <vector id="68:123" name="Vector" x="24" y="24" width="502" height="532" />
+   23             <text id="68:124" name="STRATEGIC INTELLIGENCE / 01" x="56" y="58" width="149" height="12" />
+   24             <vector id="68:125" name="Vector" x="58" y="96" width="430" height="228" />
+   25             <vector id="68:126" name="Vector" x="82" y="390" width="386" height="60" />
+   26             <vector id="68:127" name="Vector" x="82" y="302" width="386" height="88" />
+   27             <vector id="68:128" name="Vector" x="305" y="331" width="14" height="14" />
+   28             <vector id="68:129" name="Vector" x="227" y="373" width="10" height="10" />
+   29             <vector id="68:130" name="Vector" x="381" y="347" width="10" height="10" />
+   30             <text id="68:131" name="LOCAL CONTEXT / REGIONAL REACH" x="56" y="495" width="161" height="11" />
+   31             <text id="68:132" name="MARKET · MESSAGE · MOMENTUM" x="56" y="516" width="272" height="19" />
+   32           </frame>
+   33         </frame>
+   34       </frame>

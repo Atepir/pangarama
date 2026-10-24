@@ -1,0 +1,117 @@
+  795   <frame id="2:6" name="Contact — Desktop" x="6560" y="0" width="1440" height="2445">
+  796     <instance id="61:569" name="Navigation / Site public" x="0" y="0" width="1440" height="90" />
+  797     <frame id="12:10" name="Frame" x="0" y="90" width="1440" height="914">
+  798       <frame id="12:11" name="Frame" x="84" y="76" width="1272" height="762">
+  799         <frame id="12:12" name="Frame" x="0" y="0" width="500" height="518">
+  800           <text id="12:13" name="CONTACT" x="0" y="0" width="60" height="17" />
+  801           <text id="12:14" name="Parlons de votre projet." x="0" y="35" width="500" height="47" />
+  802           <text id="12:15" name="Vous avez un projet, une problématique ou souhaitez simplement échanger avec PAN" x="0" y="100" width="480" height="100" />
+  803           <frame id="12:16" name="Frame" x="0" y="218" width="470" height="300">
+  804             <frame id="12:17" name="Frame" x="38" y="22" width="390" height="245">
+  805               <vector id="12:18" name="Vector" x="31" y="26" width="306" height="209" />
+  806               <vector id="12:19" name="Vector" x="86" y="98.21293640136719" width="230" height="67.78706359863281" />
+  807               <vector id="12:20" name="Vector" x="186" y="130" width="18" height="18" />
+  808               <vector id="12:21" name="Vector" x="271" y="94" width="12" height="12" />
+  809               <vector id="12:22" name="Vector" x="117" y="185" width="12" height="12" />
+  810             </frame>
+  811             <text id="12:23" name="OUAGADOUGOU" x="222" y="176" width="79" height="13" />
+  812             <text id="12:24" name="12.3714° N • 1.5197° W" x="26" y="265" width="95" height="12" />
+  813           </frame>
+  814         </frame>
+  815         <frame id="12:25" name="Contact / Formulaire" x="564" y="0" width="708" height="762">
+  816           <text id="12:26" name="Décrivez votre besoin" x="34" y="34" width="228" height="66" />
+  817           <text id="12:27" name="Ces informations serviront uniquement à comprendre votre contexte et préparer no" x="34" y="124" width="640" height="50" />
+  818           <frame id="12:28" name="Frame" x="34" y="198" width="640" height="77">
+  819             <frame id="12:29" name="Frame" x="0" y="0" width="308" height="77">
+  820               <text id="12:30" name="NOM COMPLET *" x="0" y="0" width="99" height="17" />
+  821               <frame id="12:31" name="Frame" x="0" y="25" width="308" height="52">
+  822                 <text id="12:32" name="Votre nom" x="16" y="12" width="66" height="20" />
+  823               </frame>
+  824             </frame>
+  825             <frame id="12:33" name="Frame" x="332" y="0" width="308" height="77">
+  826               <text id="12:34" name="ORGANISATION *" x="0" y="0" width="102" height="17" />
+  827               <frame id="12:35" name="Frame" x="0" y="25" width="308" height="52">
+  828                 <text id="12:36" name="Entreprise / institution" x="16" y="12" width="146" height="20" />
+  829               </frame>
+  830             </frame>
+  831           </frame>
+  832           <frame id="12:37" name="Frame" x="34" y="299" width="640" height="77">
+  833             <frame id="12:38" name="Frame" x="0" y="0" width="308" height="77">
+  834               <text id="12:39" name="E-MAIL *" x="0" y="0" width="51" height="17" />
+  835               <frame id="12:40" name="Frame" x="0" y="25" width="308" height="52">
+  836                 <text id="12:41" name="nom@entreprise.com" x="16" y="12" width="139" height="20" />
+  837               </frame>
+  838             </frame>
+  839             <frame id="12:42" name="Frame" x="332" y="0" width="308" height="77">
+  840               <text id="12:43" name="TÉLÉPHONE · FACULTATIF" x="0" y="0" width="153" height="17" />
+  841               <frame id="12:44" name="Frame" x="0" y="25" width="308" height="52">
+  842                 <text id="12:45" name="+226 ..." x="16" y="12" width="50" height="20" />
+  843               </frame>
+  844             </frame>
+  845           </frame>
+  846           <frame id="12:46" name="Frame" x="34" y="400" width="640" height="77">
+  847             <text id="12:47" name="TYPE DE BESOIN *" x="0" y="0" width="107" height="17" />
+  848             <frame id="12:48" name="Frame" x="0" y="25" width="640" height="52">
+  849               <text id="12:49" name="Sélectionner un type de besoin ▾" x="16" y="12" width="212" height="20" />
+  850             </frame>
+  851           </frame>
+  852           <frame id="12:50" name="Frame" x="34" y="501" width="640" height="153">
+  853             <text id="12:51" name="MESSAGE *" x="0" y="0" width="68" height="17" />
+  854             <frame id="12:52" name="Frame" x="0" y="25" width="640" height="128">
+  855               <text id="12:53" name="Contexte, objectif, délai, livrable attendu…" x="16" y="16" width="269" height="20" />
+  856             </frame>
+  857           </frame>
+  858           <frame id="12:54" name="Frame" x="34" y="678" width="202" height="48">
+  859             <text id="12:55" name="Envoyer ma demande →" x="20" y="14" width="162" height="20" />
+  860           </frame>
+  861         </frame>
+  862       </frame>
+  863     </frame>
+  864     <frame id="12:56" name="Frame" x="0" y="1004" width="1440" height="331">
+  865       <frame id="12:57" name="Frame" x="84" y="82" width="1272" height="167">
+  866         <frame id="12:58" name="Frame" x="0" y="0" width="401.3333435058594" height="167">
+  867           <text id="12:59" name="Écrire" x="22" y="24" width="40" height="20" />
+  868           <text id="12:60" name="contact@pangarama.com" x="22" y="54" width="330" height="27" />
+  869           <text id="12:61" name="Pour une mission, un partenariat ou une prise de contact." x="22" y="91" width="330" height="50" />
+  870         </frame>
+  871         <frame id="12:62" name="Frame" x="435.3333435058594" y="0" width="401.33331298828125" height="142">
+  872           <text id="12:63" name="Appeler" x="22" y="24" width="54" height="20" />
+  873           <text id="12:64" name="+226 04009598" x="22" y="54" width="330" height="27" />
+  874           <text id="12:65" name="Téléphone et WhatsApp professionnel." x="22" y="91" width="330" height="25" />
+  875         </frame>
+  876         <frame id="12:66" name="Frame" x="870.6666259765625" y="0" width="401.33331298828125" height="167">
+  877           <text id="12:67" name="Rencontrer" x="22" y="24" width="77" height="20" />
+  878           <text id="12:68" name="Ouagadougou, Burkina Faso" x="22" y="54" width="330" height="27" />
+  879           <text id="12:69" name="Les rendez-vous sont organisés sur confirmation préalable." x="22" y="91" width="330" height="50" />
+  880         </frame>
+  881       </frame>
+  882     </frame>
+  883     <frame id="12:70" name="Frame" x="0" y="1335" width="1440" height="514">
+  884       <text id="12:71" name="COMMENT DÉMARRE UNE MISSION ?" x="84" y="90" width="219" height="17" />
+  885       <text id="12:72" name="Trois étapes avant de commencer." x="84" y="135" width="500" height="94" />
+  886       <frame id="12:73" name="Frame" x="84" y="257" width="1272" height="167">
+  887         <frame id="12:74" name="Frame" x="0" y="0" width="424" height="167">
+  888           <text id="12:75" name="01" x="0" y="24" width="14" height="17" />
+  889           <text id="12:76" name="Cadrage" x="0" y="53" width="260" height="26" />
+  890           <text id="12:77" name="Nous clarifions le contexte, l’objectif et la décision à préparer." x="0" y="91" width="340" height="50" />
+  891         </frame>
+  892         <frame id="12:78" name="Frame" x="424" y="0" width="424" height="167">
+  893           <text id="12:79" name="02" x="26" y="24" width="16" height="17" />
+  894           <text id="12:80" name="Proposition" x="26" y="53" width="260" height="26" />
+  895           <text id="12:81" name="Nous définissons approche, livrables, calendrier et modalités." x="26" y="91" width="340" height="50" />
+  896         </frame>
+  897         <frame id="12:82" name="Frame" x="848" y="0" width="424" height="167">
+  898           <text id="12:83" name="03" x="26" y="24" width="16" height="17" />
+  899           <text id="12:84" name="Lancement" x="26" y="53" width="260" height="26" />
+  900           <text id="12:85" name="Le périmètre validé, la mission démarre avec un interlocuteur dédié." x="26" y="91" width="340" height="50" />
+  901         </frame>
+  902       </frame>
+  903     </frame>
+  904     <frame id="12:86" name="Frame" x="0" y="1849" width="1440" height="362">
+  905       <frame id="12:87" name="Frame" x="84" y="66" width="1272" height="230">
+  906         <text id="12:88" name="Confidentialité" x="0" y="99.5" width="260" height="31" />
+  907         <frame id="12:89" name="Frame" x="290" y="114.5" width="332" height="1" />
+  908         <text id="12:90" name="Les demandes reçues sont traitées avec discrétion et uniquement dans le cadre de l’échange professionnel." x="652" y="90" width="620" height="50" />
+  909       </frame>
+  910     </frame>
+  911     <instance id="61:580" name="Pied de page / Site public" x="0" y="2211" width="1440" height="234" />

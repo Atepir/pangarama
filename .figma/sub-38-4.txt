@@ -1,0 +1,122 @@
+ 1116   <frame id="38:4" name="08 — Réalisation / Case study — Desktop" x="11480" y="0" width="1440" height="2623">
+ 1117     <instance id="61:626" name="Navigation / Site public" x="0" y="0" width="1440" height="90" />
+ 1118     <frame id="39:183" name="Frame" x="0" y="90" width="1440" height="574">
+ 1119       <text id="39:184" name="EXEMPLE DE MISSION · ÉTUDE DE MARCHÉ" x="84" y="74" width="221" height="15" />
+ 1120       <frame id="39:185" name="Frame" x="84" y="115" width="1272" height="330">
+ 1121         <frame id="39:186" name="Frame" x="0" y="73" width="716" height="184">
+ 1122           <text id="39:187" name="Cartographier un marché pour sécuriser une décision d’entrée" x="16" y="10" width="700" height="94" />
+ 1123           <text id="39:188" name="Exemple de besoin : évaluer une opportunité au Burkina Faso avant une décision d’investissement." x="16" y="122" width="620" height="52" />
+ 1124         </frame>
+ 1125         <frame id="62:577" name="Photographie éditoriale / report" x="772" y="0" width="500" height="330">
+ 1126           <frame id="71:129" name="Visuel éditorial / Case study" x="0" y="0" width="500" height="330">
+ 1127             <vector id="71:130" name="Vector" x="0" y="0" width="500" height="330" />
+ 1128             <vector id="71:131" name="Vector" x="30" y="23" width="180" height="284" />
+ 1129             <text id="71:132" name="CASE STUDY" x="50" y="49" width="63" height="12" />
+ 1130             <text id="71:133" name="04" x="50" y="113" width="62" height="54" />
+ 1131             <vector id="71:134" name="Vector" x="50" y="205" width="120" height="39" />
+ 1132             <vector id="71:135" name="Vector" x="260" y="59" width="170" height="20" />
+ 1133             <vector id="71:136" name="Vector" x="260" y="99" width="125" height="13" />
+ 1134             <vector id="71:137" name="Vector" x="260" y="132" width="150" height="13" />
+ 1135             <vector id="71:138" name="Vector" x="260" y="165" width="110" height="13" />
+ 1136             <vector id="71:139" name="Vector" x="260" y="185" width="150" height="46" />
+ 1137             <text id="71:140" name="FROM QUESTION TO ACTION" x="260" y="255" width="127" height="11" />
+ 1138           </frame>
+ 1139         </frame>
+ 1140       </frame>
+ 1141       <frame id="131:176" name="Métadonnées de publication" x="84" y="471" width="477" height="29">
+ 1142         <frame id="131:177" name="Frame" x="0" y="0" width="163" height="29">
+ 1143           <text id="131:178" name="Date de publication · À définir" x="12" y="7" width="139" height="15" />
+ 1144         </frame>
+ 1145         <frame id="131:179" name="Frame" x="181" y="0" width="125" height="29">
+ 1146           <text id="131:180" name="Auteur · PANGARAMA" x="12" y="7" width="101" height="15" />
+ 1147         </frame>
+ 1148         <frame id="131:181" name="Frame" x="324" y="0" width="153" height="29">
+ 1149           <text id="131:182" name="Temps de lecture · À définir" x="12" y="7" width="129" height="15" />
+ 1150         </frame>
+ 1151       </frame>
+ 1152     </frame>
+ 1153     <frame id="39:197" name="Frame" x="0" y="664" width="1440" height="272">
+ 1154       <frame id="39:198" name="Frame" x="84" y="84" width="1272" height="104">
+ 1155         <frame id="39:199" name="Frame" x="0" y="0" width="297" height="104">
+ 1156           <text id="39:200" name="CONTEXTE" x="20" y="20" width="48" height="12" />
+ 1157           <text id="39:201" name="Entrée potentielle sur un marché peu documenté" x="20" y="40" width="270" height="44" />
+ 1158         </frame>
+ 1159         <frame id="39:202" name="Frame" x="325" y="0" width="297" height="104">
+ 1160           <text id="39:203" name="MISSION" x="20" y="20" width="38" height="12" />
+ 1161           <text id="39:204" name="Étude sectorielle + cartographie d’acteurs" x="20" y="40" width="270" height="44" />
+ 1162         </frame>
+ 1163         <frame id="39:205" name="Frame" x="650" y="0" width="297" height="82">
+ 1164           <text id="39:206" name="DURÉE" x="20" y="20" width="30" height="12" />
+ 1165           <text id="39:207" name="Selon le périmètre" x="20" y="40" width="270" height="22" />
+ 1166         </frame>
+ 1167         <frame id="39:208" name="Frame" x="975" y="0" width="297" height="104">
+ 1168           <text id="39:209" name="LIVRABLES" x="20" y="20" width="47" height="12" />
+ 1169           <text id="39:210" name="Rapport, matrice d’acteurs, recommandations" x="20" y="40" width="270" height="44" />
+ 1170         </frame>
+ 1171       </frame>
+ 1172     </frame>
+ 1173     <frame id="39:211" name="Frame" x="0" y="936" width="1440" height="358">
+ 1174       <text id="39:212" name="LE DÉFI" x="84" y="88" width="38" height="15" />
+ 1175       <frame id="39:213" name="Frame" x="84" y="129" width="1272" height="141">
+ 1176         <text id="39:214" name="Transformer un environnement peu lisible en décision exploitable." x="0" y="0" width="610" height="141" />
+ 1177         <text id="39:215" name="Une entreprise peut avoir besoin de structurer des informations dispersées : acteurs, concurrence, conditions d’entrée et risques." x="674" y="0" width="520" height="48" />
+ 1178       </frame>
+ 1179     </frame>
+ 1180     <frame id="39:216" name="Frame" x="0" y="1294" width="1440" height="379">
+ 1181       <text id="39:217" name="NOTRE APPROCHE" x="84" y="88" width="98" height="15" />
+ 1182       <frame id="39:218" name="Frame" x="84" y="129" width="1272" height="162">
+ 1183         <frame id="39:219" name="Frame" x="0" y="0" width="318" height="162">
+ 1184           <text id="39:220" name="01" x="0" y="20" width="11" height="14" />
+ 1185           <text id="39:221" name="Cadrage" x="0" y="44" width="59" height="50" />
+ 1186           <text id="39:222" name="Questions de décision, hypothèses et critères." x="0" y="104" width="260" height="38" />
+ 1187         </frame>
+ 1188         <frame id="39:223" name="Frame" x="318" y="0" width="318" height="162">
+ 1189           <text id="39:224" name="02" x="22" y="20" width="13" height="14" />
+ 1190           <text id="39:225" name="Recherche" x="22" y="44" width="74" height="50" />
+ 1191           <text id="39:226" name="Desk research, sources locales, entretiens ciblés." x="22" y="104" width="260" height="38" />
+ 1192         </frame>
+ 1193         <frame id="39:227" name="Frame" x="636" y="0" width="318" height="143">
+ 1194           <text id="39:228" name="03" x="22" y="20" width="13" height="14" />
+ 1195           <text id="39:229" name="Cartographie" x="22" y="44" width="94" height="50" />
+ 1196           <text id="39:230" name="Acteurs, rôles, influence et relations." x="22" y="104" width="260" height="19" />
+ 1197         </frame>
+ 1198         <frame id="39:231" name="Frame" x="954" y="0" width="318" height="162">
+ 1199           <text id="39:232" name="04" x="22" y="20" width="13" height="14" />
+ 1200           <text id="39:233" name="Analyse" x="22" y="44" width="55" height="50" />
+ 1201           <text id="39:234" name="Scénarios, risques, opportunités et recommandations." x="22" y="104" width="260" height="38" />
+ 1202         </frame>
+ 1203       </frame>
+ 1204     </frame>
+ 1205     <frame id="39:235" name="Frame" x="0" y="1673" width="1440" height="402">
+ 1206       <frame id="39:236" name="Frame" x="84" y="86" width="1272" height="230">
+ 1207         <frame id="39:237" name="Frame" x="0" y="0" width="806" height="230">
+ 1208           <text id="39:238" name="OBJECTIF DE LA MISSION" x="25" y="9" width="131" height="15" />
+ 1209           <text id="39:239" name="Donner une base structurée à la décision." x="25" y="38" width="620" height="94" />
+ 1210           <text id="39:240" name="Livrables possibles : une lecture du marché, des interlocuteurs prioritaires et des scénarios argumentés. Aucun résultat client n’est revendiqué dans cet exemple." x="25" y="146" width="600" height="46" />
+ 1211         </frame>
+ 1212         <frame id="39:241" name="Frame" x="862" y="0" width="430" height="230">
+ 1213           <frame id="39:242" name="Frame" x="0" y="0" width="430" height="66">
+ 1214             <text id="39:243" name="01" x="0" y="0" width="25" height="66" />
+ 1215             <text id="39:244" name="cartographie d’acteurs" x="41" y="24" width="139" height="18" />
+ 1216           </frame>
+ 1217           <frame id="39:245" name="Frame" x="0" y="82" width="430" height="66">
+ 1218             <text id="39:246" name="02" x="0" y="0" width="30" height="66" />
+ 1219             <text id="39:247" name="analyse du marché" x="46" y="24" width="115" height="18" />
+ 1220           </frame>
+ 1221           <frame id="39:248" name="Frame" x="0" y="164" width="430" height="66">
+ 1222             <text id="39:249" name="03" x="0" y="0" width="29" height="66" />
+ 1223             <text id="39:250" name="scénarios argumentés" x="45" y="24" width="137" height="18" />
+ 1224           </frame>
+ 1225         </frame>
+ 1226       </frame>
+ 1227     </frame>
+ 1228     <frame id="39:251" name="Frame" x="0" y="2075" width="1440" height="227">
+ 1229       <text id="39:252" name="Vous préparez une décision sur un marché ?" x="270" y="68" width="900" height="47" />
+ 1230       <text id="39:253" name="Parler d’une mission ↗" x="647" y="141" width="146" height="18" />
+ 1231     </frame>
+ 1232     <frame id="131:183" name="Partage &amp; autres analyses" x="0" y="2302" width="1440" height="87">
+ 1233       <text id="131:184" name="Partager sur LinkedIn ↗" x="84" y="34" width="150" height="19" />
+ 1234       <frame id="131:185" name="Frame" x="254" y="43" width="877" height="1" />
+ 1235       <text id="131:186" name="Découvrir nos autres analyses →" x="1151" y="34" width="205" height="19" />
+ 1236     </frame>
+ 1237     <instance id="61:637" name="Pied de page / Site public" x="0" y="2389" width="1440" height="234" />

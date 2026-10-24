@@ -1,0 +1,125 @@
+ 1728   <frame id="38:9" name="13 — Contact — Mobile" x="2080" y="4200" width="390" height="1929">
+ 1729     <frame id="40:284" name="Frame" x="0" y="0" width="390" height="59">
+ 1730       <frame id="40:285" name="Frame" x="20" y="18" width="350" height="23">
+ 1731         <text id="40:286" name="Logo placeholder — remplacer par le logo définitif" x="0" y="0" width="106" height="23" />
+ 1732         <frame id="40:287" name="Frame" x="116" y="11" width="200" height="1" />
+ 1733         <frame id="40:288" name="Frame" x="326" y="1.5" width="24" height="20">
+ 1734           <rounded-rectangle id="40:289" name="Rectangle" x="0" y="0" width="24" height="1" />
+ 1735           <rounded-rectangle id="40:290" name="Rectangle" x="0" y="6" width="24" height="1" />
+ 1736           <rounded-rectangle id="40:291" name="Rectangle" x="0" y="12" width="24" height="1" />
+ 1737         </frame>
+ 1738       </frame>
+ 1739     </frame>
+ 1740     <frame id="40:292" name="Frame" x="0" y="59" width="390" height="1000">
+ 1741       <text id="40:293" name="CONTACT" x="20" y="30" width="44" height="12" />
+ 1742       <text id="40:294" name="Parlons de votre projet." x="20" y="58" width="346" height="35" />
+ 1743       <text id="40:295" name="Présentez-nous votre projet, votre problématique ou votre besoin. Nous reviendro" x="20" y="109" width="346" height="60" />
+ 1744       <frame id="40:296" name="Frame" x="20" y="185" width="346" height="210">
+ 1745         <frame id="40:297" name="Frame" x="23" y="20" width="300" height="180">
+ 1746           <vector id="40:298" name="Vector" x="27" y="19" width="243" height="155" />
+ 1747           <vector id="40:299" name="Vector" x="68" y="70.55294799804688" width="182" height="47.44705581665039" />
+ 1748           <vector id="40:300" name="Vector" x="143" y="96" width="14" height="14" />
+ 1749           <vector id="40:301" name="Vector" x="210" y="71" width="10" height="10" />
+ 1750         </frame>
+ 1751       </frame>
+ 1752       <frame id="40:302" name="Frame" x="20" y="411" width="350" height="559">
+ 1753         <text id="40:303" name="Décrivez votre besoin" x="18" y="20" width="200" height="62" />
+ 1754         <frame id="40:304" name="Frame" x="18" y="98" width="314" height="51">
+ 1755           <text id="40:305" name="NOM ET PRÉNOM" x="0" y="0" width="65" height="11" />
+ 1756           <frame id="40:306" name="Frame" x="0" y="17" width="314" height="34">
+ 1757             <text id="40:307" name="Votre nom" x="0" y="8" width="57" height="16" />
+ 1758           </frame>
+ 1759         </frame>
+ 1760         <frame id="40:308" name="Frame" x="18" y="165" width="314" height="51">
+ 1761           <text id="40:309" name="ORGANISATION" x="0" y="0" width="60" height="11" />
+ 1762           <frame id="40:310" name="Frame" x="0" y="17" width="314" height="34">
+ 1763             <text id="40:311" name="Entreprise / institution" x="0" y="8" width="125" height="16" />
+ 1764           </frame>
+ 1765         </frame>
+ 1766         <frame id="40:312" name="Frame" x="18" y="232" width="314" height="51">
+ 1767           <text id="40:313" name="E-MAIL" x="0" y="0" width="27" height="11" />
+ 1768           <frame id="40:314" name="Frame" x="0" y="17" width="314" height="34">
+ 1769             <text id="40:315" name="nom@entreprise.com" x="0" y="8" width="120" height="16" />
+ 1770           </frame>
+ 1771         </frame>
+ 1772         <frame id="40:316" name="Frame" x="18" y="299" width="314" height="51">
+ 1773           <text id="40:317" name="TÉLÉPHONE" x="0" y="0" width="46" height="11" />
+ 1774           <frame id="40:318" name="Frame" x="0" y="17" width="314" height="34">
+ 1775             <text id="40:319" name="+226 ..." x="0" y="8" width="40" height="16" />
+ 1776           </frame>
+ 1777         </frame>
+ 1778         <frame id="40:320" name="Frame" x="18" y="366" width="314" height="51">
+ 1779           <text id="40:321" name="TYPE DE BESOIN" x="0" y="0" width="63" height="11" />
+ 1780           <frame id="40:322" name="Frame" x="0" y="17" width="314" height="34">
+ 1781             <text id="40:323" name="Sélectionner un type de besoin ▾" x="0" y="8" width="260" height="16" />
+ 1782           </frame>
+ 1783         </frame>
+ 1784         <frame id="40:324" name="Frame" x="18" y="433" width="314" height="51">
+ 1785           <text id="40:325" name="MESSAGE" x="0" y="0" width="38" height="11" />
+ 1786           <frame id="40:326" name="Frame" x="0" y="17" width="314" height="34">
+ 1787             <text id="40:327" name="Contexte, objectif, délai…" x="0" y="8" width="140" height="16" />
+ 1788           </frame>
+ 1789         </frame>
+ 1790         <frame id="40:328" name="Frame" x="18" y="500" width="159" height="37">
+ 1791           <text id="40:329" name="Envoyer ma demande ↗" x="16" y="11" width="127" height="15" />
+ 1792         </frame>
+ 1793       </frame>
+ 1794     </frame>
+ 1795     <frame id="40:330" name="Frame" x="0" y="1059" width="390" height="299">
+ 1796       <frame id="40:331" name="Frame" x="20" y="30" width="350" height="69">
+ 1797         <text id="40:332" name="ÉCRIRE" x="16" y="16" width="28" height="11" />
+ 1798         <text id="40:333" name="contact@pangarama.com" x="16" y="33" width="260" height="20" />
+ 1799       </frame>
+ 1800       <frame id="40:334" name="Frame" x="20" y="115" width="350" height="69">
+ 1801         <text id="40:335" name="APPELER" x="16" y="16" width="35" height="11" />
+ 1802         <text id="40:336" name="+226 04009598" x="16" y="33" width="160" height="20" />
+ 1803       </frame>
+ 1804       <frame id="40:337" name="Frame" x="20" y="200" width="350" height="69">
+ 1805         <text id="40:338" name="RENCONTRER" x="16" y="16" width="54" height="11" />
+ 1806         <text id="40:339" name="Ouagadougou, Burkina Faso" x="16" y="33" width="200" height="20" />
+ 1807       </frame>
+ 1808     </frame>
+ 1809     <frame id="40:340" name="Frame" x="0" y="1358" width="390" height="232">
+ 1810       <text id="40:341" name="Trois étapes avant de commencer." x="20" y="30" width="346" height="58" />
+ 1811       <frame id="40:342" name="Frame" x="20" y="104" width="350" height="22">
+ 1812         <text id="40:343" name="01" x="0" y="0" width="11" height="14" />
+ 1813         <text id="40:344" name="Cadrage" x="23" y="0" width="65" height="22" />
+ 1814       </frame>
+ 1815       <frame id="40:345" name="Frame" x="20" y="142" width="350" height="22">
+ 1816         <text id="40:346" name="02" x="0" y="0" width="13" height="14" />
+ 1817         <text id="40:347" name="Proposition" x="25" y="0" width="89" height="22" />
+ 1818       </frame>
+ 1819       <frame id="40:348" name="Frame" x="20" y="180" width="350" height="22">
+ 1820         <text id="40:349" name="03" x="0" y="0" width="13" height="14" />
+ 1821         <text id="40:350" name="Lancement" x="25" y="0" width="86" height="22" />
+ 1822       </frame>
+ 1823     </frame>
+ 1824     <frame id="40:351" name="Frame" x="0" y="1590" width="390" height="339">
+ 1825       <frame id="167:972" name="Frame" x="20" y="28" width="350" height="47">
+ 1826         <text id="167:973" name="PANGARAMA" x="0" y="0" width="112" height="26" />
+ 1827         <text id="167:974" name="Comprendre. Valoriser. Développer." x="0" y="31" width="350" height="16" />
+ 1828       </frame>
+ 1829       <frame id="167:975" name="Frame" x="20" y="97" width="350" height="60">
+ 1830         <text id="167:976" name="Ouagadougou, Burkina Faso" x="0" y="0" width="144" height="16" />
+ 1831         <text id="167:977" name="contact@pangarama.com" x="0" y="22" width="134" height="16" />
+ 1832         <text id="167:978" name="+226 04009598" x="0" y="44" width="82" height="16" />
+ 1833       </frame>
+ 1834       <frame id="167:979" name="Frame" x="20" y="179" width="350" height="57">
+ 1835         <text id="167:980" name="SUIVEZ PANGARAMA" x="0" y="0" width="90" height="13" />
+ 1836         <frame id="167:981" name="Frame" x="0" y="23" width="122" height="34">
+ 1837           <frame id="167:982" name="LinkedIn — URL officielle à confirmer" x="0" y="0" width="34" height="34">
+ 1838             <text id="167:983" name="in" x="9" y="8" width="11" height="17" />
+ 1839           </frame>
+ 1840           <frame id="167:984" name="Facebook — URL officielle à confirmer" x="44" y="0" width="34" height="34">
+ 1841             <text id="167:985" name="f" x="9" y="8" width="5" height="17" />
+ 1842           </frame>
+ 1843           <frame id="167:986" name="YouTube" x="88" y="0" width="34" height="34">
+ 1844             <text id="167:987" name="▶" x="10" y="8" width="13" height="19" />
+ 1845           </frame>
+ 1846         </frame>
+ 1847       </frame>
+ 1848       <frame id="167:988" name="Frame" x="20" y="258" width="350" height="53">
+ 1849         <text id="167:989" name="À propos • Expertises • Réalisations &amp; Insights • Contact" x="0" y="17" width="350" height="15" />
+ 1850         <text id="167:990" name="Mentions légales • Politique de confidentialité" x="0" y="38" width="350" height="15" />
+ 1851       </frame>
+ 1852     </frame>

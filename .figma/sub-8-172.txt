@@ -1,0 +1,59 @@
+  140     <frame id="8:172" name="Frame" x="0" y="3011" width="1440" height="628">
+  141       <frame id="8:173" name="Frame" x="84" y="92" width="1272" height="42">
+  142         <text id="8:174" name="Insights" x="0" y="0" width="180" height="42" />
+  143         <frame id="8:175" name="Frame" x="220" y="41" width="772" height="1" />
+  144         <text id="8:176" name="ANALYSES • DÉCRYPTAGES • DONNÉES" x="1032" y="2" width="240" height="40" />
+  145       </frame>
+  146       <frame id="8:177" name="Frame" x="84" y="168" width="1272" height="368">
+  147         <frame id="8:178" name="Frame" x="0" y="0" width="409.3333435058594" height="368">
+  148           <frame id="62:582" name="Photographie éditoriale / report" x="0" y="0" width="409.3333435058594" height="205">
+  149             <frame id="69:121" name="Visuel insight / Market signals" x="0" y="0" width="409" height="205">
+  150               <vector id="69:122" name="Vector" x="0" y="0" width="409" height="205" />
+  151               <text id="69:123" name="PANGARAMA / MARKET SIGNALS" x="22" y="22" width="127" height="10" />
+  152               <text id="69:124" name="01" x="22" y="44" width="50" height="51" />
+  153               <vector id="69:125" name="Vector" x="112" y="95" width="264" height="50" />
+  154               <vector id="69:126" name="Vector" x="112" y="78" width="264" height="67" />
+  155               <vector id="69:127" name="Vector" x="327" y="73" width="10" height="10" />
+  156               <text id="69:128" name="MARCHÉS · 6 MIN" x="22" y="170" width="69" height="10" />
+  157             </frame>
+  158           </frame>
+  159           <text id="8:191" name="NOTE DE MARCHÉ" x="0" y="219" width="108" height="17" />
+  160           <text id="8:192" name="Article / Titre" x="0" y="250" width="360" height="84" />
+  161           <text id="8:193" name="Lire l’analyse →" x="0" y="348" width="106" height="20" />
+  162         </frame>
+  163         <frame id="8:194" name="Frame" x="431.3333435058594" y="0" width="409.33331298828125" height="368">
+  164           <frame id="62:583" name="Photographie éditoriale / portrait" x="0" y="0" width="409.33331298828125" height="205">
+  165             <frame id="69:129" name="Visuel insight / Corporate finance" x="0" y="0" width="409" height="205">
+  166               <vector id="69:130" name="Vector" x="0" y="0" width="409" height="205" />
+  167               <text id="69:131" name="PANGARAMA / CORPORATE" x="22" y="22" width="106" height="10" />
+  168               <text id="69:132" name="02" x="22" y="44" width="56" height="51" />
+  169               <vector id="69:133" name="Vector" x="128" y="116" width="28" height="36" />
+  170               <vector id="69:134" name="Vector" x="168" y="96" width="28" height="56" />
+  171               <vector id="69:135" name="Vector" x="208" y="72" width="28" height="80" />
+  172               <vector id="69:136" name="Vector" x="248" y="48" width="28" height="104" />
+  173               <vector id="69:137" name="Vector" x="288" y="92" width="28" height="60" />
+  174               <vector id="69:138" name="Vector" x="128" y="164" width="216" height="0" />
+  175               <text id="69:139" name="CORPORATE · 5 MIN" x="22" y="170" width="78" height="10" />
+  176             </frame>
+  177           </frame>
+  178           <text id="8:213" name="FINANCE &amp; CORPORATE" x="0" y="219" width="143" height="17" />
+  179           <text id="8:214" name="Article / Titre" x="0" y="250" width="360" height="84" />
+  180           <text id="8:215" name="Lire l’analyse →" x="0" y="348" width="106" height="20" />
+  181         </frame>
+  182         <frame id="8:216" name="Frame" x="862.6666259765625" y="0" width="409.33331298828125" height="368">
+  183           <frame id="62:584" name="Photographie éditoriale / report" x="0" y="0" width="409.33331298828125" height="205">
+  184             <frame id="69:140" name="Visuel insight / Strategic map" x="0" y="0" width="409" height="205">
+  185               <vector id="69:141" name="Vector" x="0" y="0" width="409" height="205" />
+  186               <text id="69:142" name="PANGARAMA / STRATEGY" x="22" y="22" width="99" height="10" />
+  187               <text id="69:143" name="03" x="22" y="44" width="57" height="51" />
+  188               <vector id="69:144" name="Vector" x="158" y="50" width="202" height="108" />
+  189               <vector id="69:145" name="Vector" x="166" y="50" width="146" height="108" />
+  190               <vector id="69:146" name="Vector" x="238" y="128" width="12" height="12" />
+  191               <text id="69:147" name="STRATÉGIE · 8 MIN" x="22" y="170" width="72" height="10" />
+  192             </frame>
+  193           </frame>
+  194           <text id="8:223" name="STRATÉGIE" x="0" y="219" width="67" height="17" />
+  195           <text id="8:224" name="Article / Titre" x="0" y="250" width="360" height="84" />
+  196           <text id="8:225" name="Lire l’analyse →" x="0" y="348" width="106" height="20" />
+  197         </frame>
+  198       </frame>

@@ -1,0 +1,24 @@
+   46     <frame id="8:68" name="Frame" x="0" y="977" width="1440" height="514">
+   47       <frame id="8:69" name="Frame" x="84" y="92" width="1272" height="330">
+   48         <frame id="8:70" name="Frame" x="0" y="0" width="710" height="309">
+   49           <text id="8:71" name="PANGARAMA EN BREF" x="0" y="0" width="130" height="17" />
+   50           <text id="8:72" name="Une expertise burkinabè, ouverte sur l’Afrique." x="0" y="35" width="640" height="94" />
+   51           <text id="86:121" name="Présentation courte" x="0" y="147" width="650" height="96" />
+   52           <frame id="130:621" name="CTA / Découvrir PANGARAMA" x="0" y="261" width="214" height="48">
+   53             <text id="130:622" name="Découvrir PANGARAMA →" x="20" y="14" width="174" height="20" />
+   54           </frame>
+   55         </frame>
+   56         <frame id="62:122" name="Photographie éditoriale / report" x="782" y="0" width="490" height="330">
+   57           <frame id="68:133" name="Visuel éditorial / Market report" x="0" y="0" width="490" height="330">
+   58             <vector id="68:134" name="Vector" x="0" y="0" width="490" height="330" />
+   59             <vector id="68:135" name="Vector" x="24" y="24" width="442" height="282" />
+   60             <text id="68:136" name="FIELD NOTE / MARKET REPORT" x="54" y="55" width="150" height="12" />
+   61             <vector id="68:137" name="Vector" x="54" y="216" width="376" height="32" />
+   62             <vector id="68:138" name="Vector" x="54" y="126" width="376" height="90" />
+   63             <vector id="68:139" name="Vector" x="363" y="119" width="14" height="14" />
+   64             <vector id="68:140" name="Vector" x="54" y="102" width="72" height="4" />
+   65             <vector id="68:141" name="Vector" x="54" y="116" width="132" height="4" />
+   66             <text id="68:142" name="SIGNALS · ACTORS · OPPORTUNITIES" x="54" y="273" width="162" height="11" />
+   67           </frame>
+   68         </frame>
+   69       </frame>

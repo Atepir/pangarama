@@ -1,0 +1,25 @@
+ 1998   <frame id="130:647" name="20 — Dropdown “Type de besoin” — Mobile ouvert" x="3640" y="4200" width="346" height="330">
+ 1999     <text id="130:648" name="TYPE DE BESOIN" x="18" y="18" width="69" height="13" />
+ 2000     <frame id="130:649" name="Frame" x="18" y="31" width="310" height="40">
+ 2001       <text id="130:650" name="Sélectionner un type de besoin" x="0" y="11" width="172" height="17" />
+ 2002       <frame id="130:651" name="Frame" x="172" y="11" width="131" height="1" />
+ 2003       <text id="130:652" name="⌃" x="303" y="11" width="7" height="17" />
+ 2004     </frame>
+ 2005     <frame id="130:653" name="Frame" x="18" y="71" width="310" height="40">
+ 2006       <text id="130:654" name="Communication financière &amp; corporate" x="0" y="11" width="290" height="17" />
+ 2007     </frame>
+ 2008     <frame id="130:655" name="Frame" x="18" y="111" width="310" height="40">
+ 2009       <text id="130:656" name="Études &amp; Intelligence stratégique" x="0" y="11" width="290" height="17" />
+ 2010     </frame>
+ 2011     <frame id="130:657" name="Frame" x="18" y="151" width="310" height="40">
+ 2012       <text id="130:658" name="Événementiel &amp; Engagement" x="0" y="11" width="290" height="17" />
+ 2013     </frame>
+ 2014     <frame id="130:659" name="Frame" x="18" y="191" width="310" height="40">
+ 2015       <text id="130:660" name="Développement &amp; Accompagnement" x="0" y="11" width="290" height="17" />
+ 2016     </frame>
+ 2017     <frame id="130:661" name="Frame" x="18" y="231" width="310" height="40">
+ 2018       <text id="130:662" name="Partenariat" x="0" y="11" width="290" height="17" />
+ 2019     </frame>
+ 2020     <frame id="130:663" name="Frame" x="18" y="271" width="310" height="41">
+ 2021       <text id="130:664" name="Autre" x="1" y="12" width="290" height="17" />
+ 2022     </frame>

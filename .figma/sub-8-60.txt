@@ -1,0 +1,9 @@
+   36     <frame id="8:60" name="Frame" x="0" y="899" width="1440" height="78">
+   37       <frame id="8:61" name="Frame" x="72" y="28" width="1296" height="22">
+   38         <text id="8:62" name="À vos côtés" x="0" y="1" width="78" height="20" />
+   39         <rounded-rectangle id="8:63" name="Rectangle" x="100" y="0" width="1" height="22" />
+   40         <text id="8:64" name="Banques &amp; assurances" x="123" y="1" width="149" height="20" />
+   41         <text id="8:65" name="Entreprises &amp; groupes" x="294" y="1" width="145" height="20" />
+   42         <text id="8:66" name="Institutions &amp; ONG" x="461" y="1" width="122" height="20" />
+   43         <text id="8:67" name="Investisseurs internationaux" x="605" y="1" width="188" height="20" />
+   44       </frame>

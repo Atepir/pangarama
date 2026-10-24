@@ -1,0 +1,26 @@
+ 1902   <frame id="88:121" name="16 — Mentions légales — Desktop" x="13120" y="0" width="1440" height="1341">
+ 1903     <instance id="88:122" name="Navigation / Site public" x="0" y="0" width="1440" height="90" />
+ 1904     <frame id="88:133" name="Mentions légales / Introduction" x="0" y="90" width="1440" height="339">
+ 1905       <text id="88:134" name="INFORMATIONS LÉGALES" x="84" y="90" width="143" height="16" />
+ 1906       <text id="88:135" name="Mentions légales" x="84" y="126" width="463" height="76" />
+ 1907       <text id="88:136" name="Les informations définitives devront être complétées et validées avant la mise en ligne du site." x="84" y="222" width="900" height="27" />
+ 1908     </frame>
+ 1909     <frame id="88:137" name="Mentions légales / Contenu" x="0" y="429" width="1440" height="678">
+ 1910       <frame id="88:138" name="Frame" x="84" y="72" width="1272" height="111">
+ 1911         <text id="88:139" name="Éditeur du site" x="29" y="25" width="138" height="27" />
+ 1912         <text id="88:140" name="PANGARAMA • Ouagadougou, Burkina Faso. Forme juridique, capital social, siège, RCCM et IFU à compléter." x="29" y="62" width="1214" height="24" />
+ 1913       </frame>
+ 1914       <frame id="88:141" name="Frame" x="84" y="213" width="1272" height="111">
+ 1915         <text id="88:142" name="Direction de la publication" x="29" y="25" width="250" height="27" />
+ 1916         <text id="88:143" name="Nom et qualité du responsable de publication à compléter." x="29" y="62" width="1214" height="24" />
+ 1917       </frame>
+ 1918       <frame id="88:144" name="Frame" x="84" y="354" width="1272" height="111">
+ 1919         <text id="88:145" name="Hébergement" x="29" y="25" width="132" height="27" />
+ 1920         <text id="88:146" name="Prestataire, adresse et coordonnées à compléter après validation technique." x="29" y="62" width="1214" height="24" />
+ 1921       </frame>
+ 1922       <frame id="88:147" name="Frame" x="84" y="495" width="1272" height="111">
+ 1923         <text id="88:148" name="Contact" x="29" y="25" width="79" height="27" />
+ 1924         <text id="88:149" name="contact@pangarama.com • +226 04009598" x="29" y="62" width="1214" height="24" />
+ 1925       </frame>
+ 1926     </frame>
+ 1927     <instance id="88:150" name="Pied de page / Site public" x="0" y="1107" width="1440" height="234" />

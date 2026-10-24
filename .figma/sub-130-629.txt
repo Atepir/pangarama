@@ -1,0 +1,25 @@
+ 1972   <frame id="130:629" name="19 — Dropdown “Type de besoin” — Desktop ouvert" x="18200" y="0" width="520" height="361">
+ 1973     <text id="130:630" name="TYPE DE BESOIN" x="18" y="18" width="77" height="15" />
+ 1974     <frame id="130:631" name="Frame" x="18" y="33" width="484" height="45">
+ 1975       <text id="130:632" name="Sélectionner un type de besoin" x="0" y="12" width="201" height="20" />
+ 1976       <frame id="130:633" name="Frame" x="209" y="12" width="259" height="1" />
+ 1977       <text id="130:634" name="⌃" x="476" y="12" width="8" height="20" />
+ 1978     </frame>
+ 1979     <frame id="130:635" name="Frame" x="18" y="78" width="484" height="44">
+ 1980       <text id="130:636" name="Communication financière &amp; corporate" x="0" y="12" width="232" height="19" />
+ 1981     </frame>
+ 1982     <frame id="130:637" name="Frame" x="18" y="122" width="484" height="44">
+ 1983       <text id="130:638" name="Études &amp; Intelligence stratégique" x="0" y="12" width="199" height="19" />
+ 1984     </frame>
+ 1985     <frame id="130:639" name="Frame" x="18" y="166" width="484" height="44">
+ 1986       <text id="130:640" name="Événementiel &amp; Engagement" x="0" y="12" width="172" height="19" />
+ 1987     </frame>
+ 1988     <frame id="130:641" name="Frame" x="18" y="210" width="484" height="44">
+ 1989       <text id="130:642" name="Développement &amp; Accompagnement" x="0" y="12" width="219" height="19" />
+ 1990     </frame>
+ 1991     <frame id="130:643" name="Frame" x="18" y="254" width="484" height="44">
+ 1992       <text id="130:644" name="Partenariat" x="0" y="12" width="70" height="19" />
+ 1993     </frame>
+ 1994     <frame id="130:645" name="Frame" x="18" y="298" width="484" height="45">
+ 1995       <text id="130:646" name="Autre" x="1" y="13" width="34" height="19" />
+ 1996     </frame>

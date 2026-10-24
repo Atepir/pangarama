@@ -1,0 +1,30 @@
+ 1854   <frame id="41:2" name="14 — Menu mobile — Ouvert" x="2600" y="4200" width="390" height="599">
+ 1855     <frame id="41:3" name="Frame" x="22" y="22" width="346" height="38">
+ 1856       <text id="41:4" name="Logo placeholder — remplacer par le logo définitif" x="0" y="7" width="112" height="24" />
+ 1857       <frame id="41:5" name="Frame" x="124" y="18.5" width="196" height="1" />
+ 1858       <text id="41:6" name="×" x="332" y="0" width="14" height="38" />
+ 1859     </frame>
+ 1860     <text id="41:7" name="Navigation" x="22" y="88" width="53" height="14" />
+ 1861     <frame id="41:8" name="Frame" x="22" y="130" width="346" height="51">
+ 1862       <text id="41:9" name="01" x="0" y="10" width="10" height="12" />
+ 1863       <text id="41:10" name="Accueil" x="20" y="10" width="300" height="31" />
+ 1864     </frame>
+ 1865     <frame id="41:11" name="Frame" x="22" y="209" width="346" height="51">
+ 1866       <text id="41:12" name="02" x="0" y="10" width="12" height="12" />
+ 1867       <text id="41:13" name="À propos" x="22" y="10" width="300" height="31" />
+ 1868     </frame>
+ 1869     <frame id="41:14" name="Frame" x="22" y="288" width="346" height="51">
+ 1870       <text id="41:15" name="03" x="0" y="10" width="12" height="12" />
+ 1871       <text id="41:16" name="Expertises" x="22" y="10" width="300" height="31" />
+ 1872     </frame>
+ 1873     <frame id="41:17" name="Frame" x="22" y="367" width="346" height="51">
+ 1874       <text id="41:18" name="04" x="0" y="10" width="12" height="12" />
+ 1875       <text id="41:19" name="Réalisations &amp; Insights" x="22" y="10" width="300" height="31" />
+ 1876     </frame>
+ 1877     <frame id="41:20" name="Frame" x="22" y="446" width="346" height="51">
+ 1878       <text id="41:21" name="05" x="0" y="10" width="12" height="12" />
+ 1879       <text id="41:22" name="Contact" x="22" y="10" width="300" height="31" />
+ 1880     </frame>
+ 1881     <frame id="41:23" name="Frame" x="22" y="525" width="142" height="42">
+ 1882       <text id="41:24" name="Nous contacter ↗" x="18" y="13" width="106" height="16" />
+ 1883     </frame>

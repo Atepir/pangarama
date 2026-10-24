@@ -1,0 +1,30 @@
+ 1929   <frame id="88:158" name="17 — Politique de confidentialité — Desktop" x="14760" y="0" width="1440" height="1482">
+ 1930     <instance id="88:159" name="Navigation / Site public" x="0" y="0" width="1440" height="90" />
+ 1931     <frame id="88:170" name="Confidentialité / Introduction" x="0" y="90" width="1440" height="339">
+ 1932       <text id="88:171" name="PROTECTION DES DONNÉES" x="84" y="90" width="160" height="16" />
+ 1933       <text id="88:172" name="Politique de confidentialité" x="84" y="126" width="738" height="76" />
+ 1934       <text id="88:173" name="Cette page présente les principes appliqués aux informations transmises par le formulaire de contact." x="84" y="222" width="900" height="27" />
+ 1935     </frame>
+ 1936     <frame id="88:174" name="Confidentialité / Contenu" x="0" y="429" width="1440" height="819">
+ 1937       <frame id="88:175" name="Frame" x="84" y="72" width="1272" height="111">
+ 1938         <text id="88:176" name="Responsable du traitement" x="29" y="25" width="259" height="27" />
+ 1939         <text id="88:177" name="PANGARAMA • Ouagadougou, Burkina Faso." x="29" y="62" width="1214" height="24" />
+ 1940       </frame>
+ 1941       <frame id="88:178" name="Frame" x="84" y="213" width="1272" height="111">
+ 1942         <text id="88:179" name="Données collectées" x="29" y="25" width="190" height="27" />
+ 1943         <text id="88:180" name="Nom, organisation, adresse e-mail, téléphone facultatif, type de besoin et contenu du message." x="29" y="62" width="1214" height="24" />
+ 1944       </frame>
+ 1945       <frame id="88:181" name="Frame" x="84" y="354" width="1272" height="111">
+ 1946         <text id="88:182" name="Finalité" x="29" y="25" width="71" height="27" />
+ 1947         <text id="88:183" name="Comprendre la demande, préparer le premier échange et apporter une réponse adaptée." x="29" y="62" width="1214" height="24" />
+ 1948       </frame>
+ 1949       <frame id="88:184" name="Frame" x="84" y="495" width="1272" height="111">
+ 1950         <text id="88:185" name="Conservation et droits" x="29" y="25" width="215" height="27" />
+ 1951         <text id="88:186" name="Durées de conservation, modalités d’exercice des droits et informations réglementaires à compléter avant publication." x="29" y="62" width="1214" height="24" />
+ 1952       </frame>
+ 1953       <frame id="88:187" name="Frame" x="84" y="636" width="1272" height="111">
+ 1954         <text id="88:188" name="Contact" x="29" y="25" width="79" height="27" />
+ 1955         <text id="88:189" name="contact@pangarama.com • +226 04009598" x="29" y="62" width="1214" height="24" />
+ 1956       </frame>
+ 1957     </frame>
+ 1958     <instance id="88:190" name="Pied de page / Site public" x="0" y="1248" width="1440" height="234" />

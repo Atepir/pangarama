@@ -12,10 +12,19 @@
 
 # testing
 /coverage
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
 
 # next.js
 /.next/
 /out/
+
+# firebase
+/.firebase/
+firebase-debug.log
+firebase-debug.*.log
 
 # production
 /build
@@ -32,6 +41,8 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*
+# ...sauf les modèles, qui documentent les variables attendues
+!.env.example
 
 # vercel
 .vercel

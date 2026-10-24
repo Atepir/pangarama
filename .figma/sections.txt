@@ -1,0 +1,139 @@
+﻿
+### <frame id="9:39" name="Frame" x="84" y="92" width="1272" height="286">
+   <frame id="9:40" name="Frame" x="0" y="0" width="680" height="205">
+   <text id="9:41" name="POURQUOI PANGARAMA ?" x="0" y="0" width="157" height="17" />
+   <text id="9:42" name="PANGARAMA" x="0" y="33" width="340" height="40" />
+   <text id="9:43" name="Le nom sâ€™inspire de Â« Panga Â», qui signifie force ou pouvoir en moorÃ©, associÃ© Ã " x="0" y="89" width="560" height="116" />
+
+### <frame id="9:51" name="Frame" x="84" y="137" width="1272" height="238">
+   <text id="9:52" name="Donner Ã  nos clients les moyens de mieux comprendre, mieux communiquer et mieux " x="0" y="0" width="760" height="141" />
+   <frame id="9:53" name="Frame" x="830" y="0" width="360" height="238">
+   <text id="9:54" name="Notre approche" x="0" y="0" width="107" height="20" />
+   <text id="9:55" name="Analyse, Ã©coute et solutions adaptÃ©es Ã  chaque organisation." x="0" y="36" width="340" height="50" />
+   <text id="9:56" name="Notre ambition" x="0" y="102" width="103" height="20" />
+   <text id="9:57" name="Construire progressivement une expertise reconnue au Burkina Faso et en Afrique," x="0" y="138" width="340" height="100" />
+
+### <frame id="9:61" name="Frame" x="84" y="447" width="1272" height="136">
+   <frame id="9:62" name="Frame" x="0" y="0" width="318" height="136">
+   <frame id="9:63" name="Frame" x="0" y="26" width="40" height="40">
+   <text id="9:64" name="01" x="12" y="11" width="14" height="17" />
+
+### <frame id="9:84" name="Frame" x="84" y="135" width="1272" height="190">
+   <frame id="9:85" name="Frame" x="0" y="0" width="240" height="190">
+   <text id="9:86" name="01" x="22" y="24" width="14" height="17" />
+   <text id="9:87" name="Exigence" x="22" y="53" width="96" height="28" />
+   <text id="9:88" name="Rechercher la qualitÃ© dans chaque mission." x="22" y="93" width="185" height="50" />
+
+### <frame id="9:102" name="Frame" x="84" y="92" width="1272" height="360">
+   <frame id="9:103" name="Frame" x="0" y="0" width="702" height="222">
+   <text id="9:104" name="OUAGADOUGOU â†’ AFRIQUE DE Lâ€™OUEST" x="0" y="0" width="241" height="17" />
+   <text id="9:105" name="AncrÃ© ici. PensÃ© rÃ©gionalement." x="0" y="35" width="580" height="94" />
+   <text id="9:106" name="Ã€ long terme, PANGARAMA veut accompagner les entreprises et investisseurs dans le dÃ©veloppement de projets et dâ€™opportunitÃ©s au Burkina Faso et dans la sous-rÃ©gion." x="0" y="147" width="560" height="75" />
+
+### <frame id="11:12" name="Frame" x="84" y="117" width="1272" height="430">
+   <frame id="11:13" name="Frame" x="0" y="134" width="746" height="162">
+   <text id="11:14" name="Des missions Ã  dÃ©couvrir." x="0" y="0" width="730" height="94" />
+   <text id="11:15" name="PANGARAMA partage progressivement ses projets, analyses, dÃ©cryptages et donnÃ©es " x="0" y="112" width="620" height="50" />
+
+### <frame id="11:32" name="Frame" x="84" y="135" width="1272" height="390">
+   <frame id="62:576" name="Photographie Ã©ditoriale / report" x="0" y="0" width="570" height="390">
+   <frame id="71:121" name="Visuel Ã©ditorial / Insight system" x="0" y="0" width="570" height="390">
+   <vector id="71:122" name="Vector" x="0" y="0" width="570" height="390" />
+   <vector id="71:123" name="Vector" x="29" y="23" width="513" height="343" />
+   <text id="71:124" name="PANGARAMA / FIELD SYSTEM" x="57" y="52" width="143" height="12" />
+   <vector id="71:125" name="Vector" x="57" y="129" width="456" height="136" />
+   <vector id="71:126" name="Vector" x="57" y="265" width="456" height="63" />
+   <vector id="71:127" name="Vector" x="420" y="121" width="16" height="16" />
+   <text id="71:128" name="01 / SIGNALS" x="57" y="104" width="82" height="16" />
+
+### <frame id="11:54" name="Frame" x="84" y="90" width="1272" height="42">
+   <text id="11:55" name="Insights" x="0" y="0" width="180" height="42" />
+   <frame id="11:56" name="Frame" x="210" y="20.5" width="477" height="1" />
+   <frame id="11:57" name="Frame" x="717" y="3" width="58" height="36">
+   <text id="11:58" name="Tous" x="13" y="8" width="32" height="20" />
+
+### <frame id="11:67" name="Frame" x="84" y="160" width="1272" height="413">
+   <frame id="11:68" name="Frame" x="0" y="0" width="409.3333435058594" height="413">
+   <frame id="11:69" name="Frame" x="0" y="0" width="409.3333435058594" height="250">
+   <text id="11:70" name="PANGARAMA" x="18" y="18" width="56" height="12" />
+   <text id="11:71" name="MARCHÃ‰S" x="18" y="48" width="44" height="12" />
+   <text id="11:72" name="01" x="18" y="130" width="49" height="136" />
+   <rounded-rectangle id="11:73" name="Rectangle" x="150" y="72" width="180" height="1" />
+   <rounded-rectangle id="11:74" name="Rectangle" x="150" y="102.66666412353516" width="180" height="1" />
+   <rounded-rectangle id="11:75" name="Rectangle" x="150" y="133.3333282470703" width="180" height="1" />
+   <rounded-rectangle id="11:76" name="Rectangle" x="150" y="164" width="180" height="1" />
+   <frame id="28:22" name="Illustration / Courbe continue" x="0" y="0" width="409.3333435058594" height="250">
+   <vector id="28:23" name="Vector" x="150" y="93.15999603271484" width="180" height="43.23999786376953" />
+
+### <frame id="11:156" name="Frame" x="84" y="210" width="1272" height="216">
+   <frame id="11:157" name="Frame" x="0" y="0" width="1272" height="216">
+   <text id="11:158" name="Ã€ VENIR" x="22" y="24" width="48" height="17" />
+   <text id="11:159" name="Nos premiÃ¨res rÃ©alisations seront prochainement prÃ©sentÃ©es ici." x="22" y="55" width="1160" height="28" />
+   <text id="11:160" name="Publication avec lâ€™accord du client" x="22" y="97" width="1160" height="20" />
+   <text id="11:161" name="DÃ©couvrez progressivement les projets et missions rÃ©alisÃ©s par PANGARAMA aux cÃ´t" x="22" y="131" width="1160" height="25" />
+   <text id="11:162" name="Prochainement" x="22" y="170" width="103" height="20" />
+
+### <frame id="2:6" name="Contact â€” Desktop" x="6560" y="0" width="1440" height="2445">
+   <instance id="61:569" name="Navigation / Site public" x="0" y="0" width="1440" height="90" />
+   <frame id="12:10" name="Frame" x="0" y="90" width="1440" height="914">
+   <frame id="12:11" name="Frame" x="84" y="76" width="1272" height="762">
+   <frame id="12:12" name="Frame" x="0" y="0" width="500" height="518">
+   <text id="12:13" name="CONTACT" x="0" y="0" width="60" height="17" />
+   <text id="12:14" name="Parlons de votre projet." x="0" y="35" width="500" height="47" />
+   <text id="12:15" name="Vous avez un projet, une problÃ©matique ou souhaitez simplement Ã©changer avec PAN" x="0" y="100" width="480" height="100" />
+   <frame id="12:16" name="Frame" x="0" y="218" width="470" height="300">
+   <frame id="12:17" name="Frame" x="38" y="22" width="390" height="245">
+   <vector id="12:18" name="Vector" x="31" y="26" width="306" height="209" />
+   <vector id="12:19" name="Vector" x="86" y="98.21293640136719" width="230" height="67.78706359863281" />
+   <vector id="12:20" name="Vector" x="186" y="130" width="18" height="18" />
+   <vector id="12:21" name="Vector" x="271" y="94" width="12" height="12" />
+   <vector id="12:22" name="Vector" x="117" y="185" width="12" height="12" />
+
+### <frame id="39:13" name="Frame" x="84" y="115" width="1272" height="330">
+   <frame id="39:14" name="Frame" x="0" y="28" width="716" height="274">
+   <text id="39:15" name="Communication financiÃ¨re &amp; corporate" x="0" y="0" width="650" height="204" />
+   <text id="39:16" name="Structurer lâ€™information, renforcer la confiance et produire des contenus institutionnels Ã  la hauteur des enjeux de lâ€™organisation." x="0" y="222" width="610" height="52" />
+
+### <frame id="39:31" name="Frame" x="84" y="88" width="1272" height="257">
+   <frame id="39:32" name="Frame" x="0" y="0" width="782" height="257">
+   <text id="39:33" name="QUAND NOUS SOLLICITER" x="0" y="0" width="137" height="15" />
+   <text id="39:34" name="Quand une organisation doit expliquer, convaincre ou rassurer." x="0" y="31" width="620" height="141" />
+   <text id="39:35" name="Publication de rÃ©sultats, rapport annuel, prise de parole institutionnelle, dialogue avec les investisseurs et partenaires financiers, transformation importante ou besoin de professionnaliser la communication corporate." x="0" y="188" width="600" height="69" />
+
+### <frame id="39:74" name="Frame" x="84" y="129" width="1272" height="99">
+   <frame id="39:75" name="Frame" x="0" y="0" width="304.5" height="99">
+   <text id="39:76" name="01" x="20" y="24" width="11" height="14" />
+   <text id="39:77" name="Rapport annuel" x="20" y="48" width="147" height="27" />
+
+### <frame id="38:3" name="07 â€” Insight / Article â€” Desktop" x="9840" y="0" width="1440" height="2404">
+   <instance id="61:607" name="Navigation / Site public" x="0" y="0" width="1440" height="90" />
+   <frame id="39:106" name="Frame" x="0" y="90" width="1440" height="457">
+   <text id="39:107" name="EXEMPLE DE PUBLICATION Â· CONTENU Ã€ VALIDER" x="84" y="74" width="255" height="15" />
+   <text id="39:108" name="Burkina Faso : signaux, secteurs et nouvelles opportunitÃ©s" x="84" y="115" width="980" height="136" />
+   <text id="39:109" name="Une lecture synthÃ©tique des dynamiques Ã  suivre pour les entreprises, institutions et investisseurs." x="84" y="277" width="760" height="52" />
+   <frame id="39:110" name="Frame" x="84" y="355" width="1272" height="28">
+   <frame id="39:111" name="Frame" x="0" y="0" width="101" height="28">
+   <text id="39:112" name="8 min de lecture" x="12" y="7" width="77" height="14" />
+
+### <frame id="39:185" name="Frame" x="84" y="115" width="1272" height="330">
+   <frame id="39:186" name="Frame" x="0" y="73" width="716" height="184">
+   <text id="39:187" name="Cartographier un marchÃ© pour sÃ©curiser une dÃ©cision dâ€™entrÃ©e" x="16" y="10" width="700" height="94" />
+   <text id="39:188" name="Exemple de besoin : Ã©valuer une opportunitÃ© au Burkina Faso avant une dÃ©cision dâ€™investissement." x="16" y="122" width="620" height="52" />
+
+### <frame id="39:198" name="Frame" x="84" y="84" width="1272" height="104">
+   <frame id="39:199" name="Frame" x="0" y="0" width="297" height="104">
+   <text id="39:200" name="CONTEXTE" x="20" y="20" width="48" height="12" />
+   <text id="39:201" name="EntrÃ©e potentielle sur un marchÃ© peu documentÃ©" x="20" y="40" width="270" height="44" />
+
+### <frame id="39:236" name="Frame" x="84" y="86" width="1272" height="230">
+   <frame id="39:237" name="Frame" x="0" y="0" width="806" height="230">
+   <text id="39:238" name="OBJECTIF DE LA MISSION" x="25" y="9" width="131" height="15" />
+   <text id="39:239" name="Donner une base structurÃ©e Ã  la dÃ©cision." x="25" y="38" width="620" height="94" />
+   <text id="39:240" name="Livrables possibles : une lecture du marchÃ©, des interlocuteurs prioritaires et des scÃ©narios argumentÃ©s. Aucun rÃ©sultat client nâ€™est revendiquÃ© dans cet exemple." x="25" y="146" width="600" height="46" />
+
+### <frame id="88:158" name="17 â€” Politique de confidentialitÃ© â€” Desktop" x="14760" y="0" width="1440" height="1482">
+   <instance id="88:159" name="Navigation / Site public" x="0" y="0" width="1440" height="90" />
+   <frame id="88:170" name="ConfidentialitÃ© / Introduction" x="0" y="90" width="1440" height="339">
+   <text id="88:171" name="PROTECTION DES DONNÃ‰ES" x="84" y="90" width="160" height="16" />
+   <text id="88:172" name="Politique de confidentialitÃ©" x="84" y="126" width="738" height="76" />
+   <text id="88:173" name="Cette page prÃ©sente les principes appliquÃ©s aux informations transmises par le formulaire de contact." x="84" y="222" width="900" height="27" />

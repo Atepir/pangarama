@@ -1,0 +1,260 @@
+  346   <frame id="2:4" name="Expertises — Desktop" x="3280" y="0" width="1440" height="3889">
+  347     <instance id="61:531" name="Navigation / Site public" x="0" y="0" width="1440" height="90" />
+  348     <frame id="10:10" name="Frame" x="0" y="90" width="1440" height="567">
+  349       <text id="10:11" name="EXPERTISES" x="84" y="76" width="75" height="17" />
+  350       <frame id="10:12" name="Frame" x="84" y="121" width="1272" height="370">
+  351         <frame id="10:13" name="Frame" x="0" y="48" width="726" height="274">
+  352           <text id="10:14" name="Quatre expertises complémentaires au service des organisations." x="0" y="0" width="720" height="204" />
+  353           <text id="10:15" name="Communication, décision, engagement et développement : quatre expertises mobilis" x="0" y="222" width="640" height="52" />
+  354         </frame>
+  355         <frame id="10:16" name="Frame" x="782" y="0" width="490" height="370">
+  356           <frame id="10:17" name="Frame" x="34" y="40" width="200" height="130">
+  357             <text id="10:18" name="01" x="16" y="16" width="54" height="33" />
+  358             <text id="10:19" name="CORPORATE" x="16" y="94" width="54" height="12" />
+  359           </frame>
+  360           <frame id="10:20" name="Frame" x="254" y="40" width="200" height="130">
+  361             <text id="10:21" name="02" x="16" y="16" width="44" height="33" />
+  362             <text id="10:22" name="INTELLIGENCE" x="16" y="94" width="63" height="12" />
+  363           </frame>
+  364           <frame id="10:23" name="Frame" x="34" y="200" width="200" height="130">
+  365             <text id="10:24" name="03" x="16" y="16" width="61" height="33" />
+  366             <text id="10:25" name="ENGAGEMENT" x="16" y="94" width="61" height="12" />
+  367           </frame>
+  368           <frame id="10:26" name="Frame" x="254" y="200" width="200" height="130">
+  369             <text id="10:27" name="04" x="16" y="16" width="46" height="33" />
+  370             <text id="10:28" name="DÉVELOPPEMENT" x="16" y="94" width="76" height="12" />
+  371           </frame>
+  372         </frame>
+  373       </frame>
+  374     </frame>
+  375     <frame id="10:29" name="Frame" x="0" y="657" width="1440" height="620">
+  376       <frame id="10:30" name="Frame" x="84" y="90" width="1272" height="440">
+  377         <frame id="10:31" name="Frame" x="0" y="2" width="742" height="436">
+  378           <text id="10:32" name="01" x="0" y="0" width="14" height="17" />
+  379           <text id="10:33" name="Communication financière &amp; corporate" x="0" y="35" width="620" height="94" />
+  380           <text id="10:34" name="Rendre votre information plus claire, plus accessible et plus utile à vos partie" x="0" y="147" width="590" height="50" />
+  381           <text id="10:35" name="NOUS INTERVENONS SUR" x="0" y="215" width="153" height="17" />
+  382           <frame id="10:36" name="Frame" x="0" y="250" width="453" height="110">
+  383             <frame id="10:37" name="Frame" x="0" y="0" width="453" height="20">
+  384               <text id="10:38" name="—" x="0" y="0" width="10" height="17" />
+  385               <text id="10:39" name="Communication financière, rapports annuels et rapports d’activité" x="20" y="0" width="433" height="20" />
+  386             </frame>
+  387             <frame id="10:40" name="Frame" x="0" y="30" width="393" height="20">
+  388               <text id="10:41" name="—" x="0" y="0" width="10" height="17" />
+  389               <text id="10:42" name="Publications institutionnelles et présentations corporate" x="20" y="0" width="373" height="20" />
+  390             </frame>
+  391             <frame id="10:43" name="Frame" x="0" y="60" width="173" height="20">
+  392               <text id="10:44" name="—" x="0" y="0" width="10" height="17" />
+  393               <text id="10:45" name="Contenus stratégiques" x="20" y="0" width="153" height="20" />
+  394             </frame>
+  395             <frame id="10:46" name="Frame" x="0" y="90" width="428" height="20">
+  396               <text id="10:47" name="—" x="0" y="0" width="10" height="17" />
+  397               <text id="10:48" name="Communication auprès des investisseurs et parties prenantes" x="20" y="0" width="408" height="20" />
+  398             </frame>
+  399           </frame>
+  400           <frame id="86:126" name="Livrables et contact" x="0" y="378" width="742" height="58">
+  401             <text id="86:127" name="LIVRABLES POSSIBLES" x="0" y="0" width="108" height="14" />
+  402             <text id="86:128" name="Stratégie et recommandations éditoriales • Rapports et publications • Présentations et supports • Éléments de langage et contenus" x="0" y="20" width="742" height="17" />
+  403             <text id="86:129" name="Échangeons sur votre besoin →" x="0" y="43" width="168" height="15" />
+  404           </frame>
+  405         </frame>
+  406         <frame id="62:574" name="Photographie éditoriale / report" x="802" y="60" width="470" height="320">
+  407           <frame id="70:130" name="Visuel éditorial / Expertise matrix" x="0" y="0" width="470" height="320">
+  408             <vector id="70:131" name="Vector" x="0" y="0" width="470" height="320" />
+  409             <vector id="70:132" name="Vector" x="28" y="26" width="414" height="269" />
+  410             <vector id="70:133" name="Vector" x="56" y="70" width="150" height="77" />
+  411             <vector id="70:134" name="Vector" x="240" y="70" width="150" height="77" />
+  412             <vector id="70:135" name="Vector" x="56" y="170" width="150" height="77" />
+  413             <vector id="70:136" name="Vector" x="240" y="170" width="150" height="77" />
+  414             <text id="70:137" name="01" x="71" y="80" width="21" height="23" />
+  415             <text id="70:138" name="02" x="254" y="80" width="24" height="23" />
+  416             <text id="70:139" name="03" x="71" y="179" width="24" height="23" />
+  417             <text id="70:140" name="04" x="254" y="179" width="25" height="23" />
+  418             <text id="70:141" name="MESSAGE" x="71" y="121" width="48" height="12" />
+  419             <text id="70:142" name="SIGNALS" x="254" y="121" width="43" height="12" />
+  420             <text id="70:143" name="ACTORS" x="71" y="220" width="41" height="12" />
+  421             <text id="70:144" name="IMPACT" x="254" y="220" width="38" height="12" />
+  422           </frame>
+  423         </frame>
+  424       </frame>
+  425     </frame>
+  426     <frame id="10:62" name="Frame" x="0" y="1277" width="1440" height="580">
+  427       <frame id="10:63" name="Frame" x="84" y="90" width="1272" height="400">
+  428         <frame id="10:64" name="Frame" x="0" y="18" width="742" height="364">
+  429           <text id="10:65" name="02" x="0" y="0" width="16" height="17" />
+  430           <text id="10:66" name="Études &amp; Intelligence stratégique" x="0" y="35" width="620" height="47" />
+  431           <text id="10:67" name="Mieux comprendre pour mieux décider." x="0" y="100" width="590" height="25" />
+  432           <text id="10:68" name="NOUS INTERVENONS SUR" x="0" y="143" width="153" height="17" />
+  433           <frame id="10:69" name="Frame" x="0" y="178" width="372" height="110">
+  434             <frame id="10:70" name="Frame" x="0" y="0" width="372" height="20">
+  435               <text id="10:71" name="—" x="0" y="0" width="10" height="17" />
+  436               <text id="10:72" name="Études de marché, études sectorielles et benchmarks" x="20" y="0" width="352" height="20" />
+  437             </frame>
+  438             <frame id="10:73" name="Frame" x="0" y="30" width="255" height="20">
+  439               <text id="10:74" name="—" x="0" y="0" width="10" height="17" />
+  440               <text id="10:75" name="Veille stratégique et concurrentielle" x="20" y="0" width="235" height="20" />
+  441             </frame>
+  442             <frame id="10:76" name="Frame" x="0" y="60" width="333" height="20">
+  443               <text id="10:77" name="—" x="0" y="0" width="10" height="17" />
+  444               <text id="10:78" name="Cartographies d’acteurs, enquêtes et sondages" x="20" y="0" width="313" height="20" />
+  445             </frame>
+  446             <frame id="10:79" name="Frame" x="0" y="90" width="173" height="20">
+  447               <text id="10:80" name="—" x="0" y="0" width="10" height="17" />
+  448               <text id="10:81" name="Analyses d’opportunité" x="20" y="0" width="153" height="20" />
+  449             </frame>
+  450           </frame>
+  451           <frame id="86:130" name="Livrables et contact" x="0" y="306" width="742" height="58">
+  452             <text id="86:131" name="LIVRABLES POSSIBLES" x="0" y="0" width="108" height="14" />
+  453             <text id="86:132" name="Rapports d’étude • Notes de synthèse • Tableaux de veille • Cartographies et benchmarks • Restitutions exécutives" x="0" y="20" width="742" height="17" />
+  454             <text id="86:133" name="Échangeons sur votre besoin →" x="0" y="43" width="168" height="15" />
+  455           </frame>
+  456         </frame>
+  457         <frame id="10:82" name="Frame" x="802" y="40" width="470" height="320">
+  458           <frame id="28:16" name="Illustration / Réseau connecté" x="0" y="0" width="470" height="320">
+  459             <vector id="28:17" name="Vector" x="77.91999816894531" y="76" width="299.20001220703125" height="165" />
+  460           </frame>
+  461           <ellipse id="10:93" name="Ellipse" x="72.91999816894531" y="93" width="10" height="10" />
+  462           <ellipse id="10:94" name="Ellipse" x="207.55999755859375" y="71" width="10" height="10" />
+  463           <ellipse id="10:95" name="Ellipse" x="342.20001220703125" y="93" width="10" height="10" />
+  464           <ellipse id="10:96" name="Ellipse" x="125.27999877929688" y="176.60000610351562" width="10" height="10" />
+  465           <ellipse id="10:97" name="Ellipse" x="256.17999267578125" y="154.60000610351562" width="18" height="18" />
+  466           <ellipse id="10:98" name="Ellipse" x="372.1199951171875" y="198.60000610351562" width="10" height="10" />
+  467           <ellipse id="10:99" name="Ellipse" x="200.0800018310547" y="236" width="10" height="10" />
+  468           <text id="10:100" name="ACTEURS • SIGNAUX • RISQUES • OPPORTUNITÉS" x="70" y="270" width="219" height="12" />
+  469         </frame>
+  470       </frame>
+  471     </frame>
+  472     <frame id="10:101" name="Frame" x="0" y="1857" width="1440" height="580">
+  473       <frame id="10:102" name="Frame" x="84" y="90" width="1272" height="400">
+  474         <frame id="10:103" name="Frame" x="0" y="18" width="742" height="364">
+  475           <text id="10:104" name="03" x="0" y="0" width="16" height="17" />
+  476           <text id="10:105" name="Événementiel &amp; Engagement" x="0" y="35" width="620" height="47" />
+  477           <text id="10:106" name="Créer des rencontres qui ont du sens." x="0" y="100" width="590" height="25" />
+  478           <text id="10:107" name="NOUS INTERVENONS SUR" x="0" y="143" width="153" height="17" />
+  479           <frame id="10:108" name="Frame" x="0" y="178" width="334" height="110">
+  480             <frame id="10:109" name="Frame" x="0" y="0" width="250" height="20">
+  481               <text id="10:110" name="—" x="0" y="0" width="10" height="17" />
+  482               <text id="10:111" name="Conférences, forums et séminaires" x="20" y="0" width="230" height="20" />
+  483             </frame>
+  484             <frame id="10:112" name="Frame" x="0" y="30" width="317" height="20">
+  485               <text id="10:113" name="—" x="0" y="0" width="10" height="17" />
+  486               <text id="10:114" name="Tables rondes et rencontres professionnelles" x="20" y="0" width="297" height="20" />
+  487             </frame>
+  488             <frame id="10:115" name="Frame" x="0" y="60" width="170" height="20">
+  489               <text id="10:116" name="—" x="0" y="0" width="10" height="17" />
+  490               <text id="10:117" name="Événements corporate" x="20" y="0" width="150" height="20" />
+  491             </frame>
+  492             <frame id="10:118" name="Frame" x="0" y="90" width="334" height="20">
+  493               <text id="10:119" name="—" x="0" y="0" width="10" height="17" />
+  494               <text id="10:120" name="Dispositifs d’engagement des parties prenantes" x="20" y="0" width="314" height="20" />
+  495             </frame>
+  496           </frame>
+  497           <frame id="86:134" name="Livrables et contact" x="0" y="306" width="742" height="58">
+  498             <text id="86:135" name="LIVRABLES POSSIBLES" x="0" y="0" width="108" height="14" />
+  499             <text id="86:136" name="Concept et programme • Pilotage et coordination • Contenus de communication • Gestion des parties prenantes • Bilan de l’événement" x="0" y="20" width="742" height="17" />
+  500             <text id="86:137" name="Échangeons sur votre besoin →" x="0" y="43" width="168" height="15" />
+  501           </frame>
+  502         </frame>
+  503         <frame id="10:121" name="Frame" x="802" y="40" width="470" height="320">
+  504           <rounded-rectangle id="10:122" name="Rectangle" x="70" y="46" width="330" height="62" />
+  505           <text id="10:123" name="PANGARAMA FORUM" x="150" y="67" width="179" height="23" />
+  506           <ellipse id="10:124" name="Ellipse" x="85" y="150" width="14" height="14" />
+  507           <ellipse id="10:125" name="Ellipse" x="131" y="150" width="14" height="14" />
+  508           <ellipse id="10:126" name="Ellipse" x="177" y="150" width="14" height="14" />
+  509           <ellipse id="10:127" name="Ellipse" x="223" y="150" width="14" height="14" />
+  510           <ellipse id="10:128" name="Ellipse" x="269" y="150" width="14" height="14" />
+  511           <ellipse id="10:129" name="Ellipse" x="315" y="150" width="14" height="14" />
+  512           <ellipse id="10:130" name="Ellipse" x="361" y="150" width="14" height="14" />
+  513           <ellipse id="10:131" name="Ellipse" x="97" y="184" width="14" height="14" />
+  514           <ellipse id="10:132" name="Ellipse" x="143" y="184" width="14" height="14" />
+  515           <ellipse id="10:133" name="Ellipse" x="189" y="184" width="14" height="14" />
+  516           <ellipse id="10:134" name="Ellipse" x="235" y="184" width="14" height="14" />
+  517           <ellipse id="10:135" name="Ellipse" x="281" y="184" width="14" height="14" />
+  518           <ellipse id="10:136" name="Ellipse" x="327" y="184" width="14" height="14" />
+  519           <ellipse id="10:137" name="Ellipse" x="373" y="184" width="14" height="14" />
+  520           <ellipse id="10:138" name="Ellipse" x="85" y="218" width="14" height="14" />
+  521           <ellipse id="10:139" name="Ellipse" x="131" y="218" width="14" height="14" />
+  522           <ellipse id="10:140" name="Ellipse" x="177" y="218" width="14" height="14" />
+  523           <ellipse id="10:141" name="Ellipse" x="223" y="218" width="14" height="14" />
+  524           <ellipse id="10:142" name="Ellipse" x="269" y="218" width="14" height="14" />
+  525           <ellipse id="10:143" name="Ellipse" x="315" y="218" width="14" height="14" />
+  526           <ellipse id="10:144" name="Ellipse" x="361" y="218" width="14" height="14" />
+  527           <ellipse id="10:145" name="Ellipse" x="97" y="252" width="14" height="14" />
+  528           <ellipse id="10:146" name="Ellipse" x="143" y="252" width="14" height="14" />
+  529           <ellipse id="10:147" name="Ellipse" x="189" y="252" width="14" height="14" />
+  530           <ellipse id="10:148" name="Ellipse" x="235" y="252" width="14" height="14" />
+  531           <ellipse id="10:149" name="Ellipse" x="281" y="252" width="14" height="14" />
+  532           <ellipse id="10:150" name="Ellipse" x="327" y="252" width="14" height="14" />
+  533           <ellipse id="10:151" name="Ellipse" x="373" y="252" width="14" height="14" />
+  534         </frame>
+  535       </frame>
+  536     </frame>
+  537     <frame id="10:152" name="Frame" x="0" y="2437" width="1440" height="620">
+  538       <frame id="10:153" name="Frame" x="84" y="90" width="1272" height="440">
+  539         <frame id="10:154" name="Frame" x="0" y="14.5" width="742" height="411">
+  540           <text id="10:155" name="04" x="0" y="0" width="16" height="17" />
+  541           <text id="10:156" name="Développement &amp; Accompagnement" x="0" y="35" width="620" height="94" />
+  542           <text id="10:157" name="Transformer les opportunités en projets." x="0" y="147" width="590" height="25" />
+  543           <text id="10:158" name="NOUS INTERVENONS SUR" x="0" y="190" width="153" height="17" />
+  544           <frame id="10:159" name="Frame" x="0" y="225" width="423" height="110">
+  545             <frame id="10:160" name="Frame" x="0" y="0" width="309" height="20">
+  546               <text id="10:161" name="—" x="0" y="0" width="10" height="17" />
+  547               <text id="10:162" name="Intelligence marché et études d’opportunité" x="20" y="0" width="289" height="20" />
+  548             </frame>
+  549             <frame id="10:163" name="Frame" x="0" y="30" width="423" height="20">
+  550               <text id="10:164" name="—" x="0" y="0" width="10" height="17" />
+  551               <text id="10:165" name="Cartographies d’écosystèmes et identification de partenaires" x="20" y="0" width="403" height="20" />
+  552             </frame>
+  553             <frame id="10:166" name="Frame" x="0" y="60" width="245" height="20">
+  554               <text id="10:167" name="—" x="0" y="0" width="10" height="17" />
+  555               <text id="10:168" name="Accompagnement à l’implantation" x="20" y="0" width="225" height="20" />
+  556             </frame>
+  557             <frame id="10:169" name="Frame" x="0" y="90" width="252" height="20">
+  558               <text id="10:170" name="—" x="0" y="0" width="10" height="17" />
+  559               <text id="10:171" name="Appui au développement de projets" x="20" y="0" width="232" height="20" />
+  560             </frame>
+  561           </frame>
+  562           <frame id="86:138" name="Livrables et contact" x="0" y="353" width="742" height="58">
+  563             <text id="86:139" name="LIVRABLES POSSIBLES" x="0" y="0" width="108" height="14" />
+  564             <text id="86:140" name="Notes d’opportunité • Cartographies de partenaires • Analyses de marché • Recommandations d’implantation • Feuilles de route" x="0" y="20" width="742" height="17" />
+  565             <text id="86:141" name="Échangeons sur votre besoin →" x="0" y="43" width="168" height="15" />
+  566           </frame>
+  567         </frame>
+  568         <frame id="10:172" name="Frame" x="802" y="60" width="470" height="320">
+  569           <frame id="10:173" name="Frame" x="40" y="26" width="390" height="260">
+  570             <vector id="10:174" name="Vector" x="31" y="26" width="306" height="209" />
+  571             <vector id="10:175" name="Vector" x="86" y="98.21293640136719" width="230" height="67.78706359863281" />
+  572             <vector id="10:176" name="Vector" x="187" y="131" width="16" height="16" />
+  573             <vector id="10:177" name="Vector" x="271" y="94" width="12" height="12" />
+  574             <vector id="10:178" name="Vector" x="117" y="185" width="12" height="12" />
+  575           </frame>
+  576           <text id="10:179" name="BURKINA FASO" x="196" y="157" width="71" height="13" />
+  577         </frame>
+  578       </frame>
+  579     </frame>
+  580     <frame id="10:180" name="Frame" x="0" y="3057" width="1440" height="351">
+  581       <text id="10:181" name="À QUELS MOMENTS NOUS MOBILISER ?" x="84" y="90" width="234" height="17" />
+  582       <frame id="10:182" name="Frame" x="84" y="135" width="1272" height="126">
+  583         <frame id="10:183" name="Frame" x="0" y="0" width="304.5" height="126">
+  584           <text id="10:184" name="Lancer" x="22" y="24" width="140" height="20" />
+  585           <text id="10:185" name="une activité ou une offre sur un nouveau marché" x="22" y="52" width="260" height="50" />
+  586         </frame>
+  587         <frame id="10:186" name="Frame" x="322.5" y="0" width="304.5" height="126">
+  588           <text id="10:187" name="Décider" x="22" y="24" width="140" height="20" />
+  589           <text id="10:188" name="avant un investissement, un partenariat ou une implantation" x="22" y="52" width="260" height="50" />
+  590         </frame>
+  591         <frame id="10:189" name="Frame" x="645" y="0" width="304.5" height="126">
+  592           <text id="10:190" name="Convaincre" x="22" y="24" width="150" height="20" />
+  593           <text id="10:191" name="des investisseurs, partenaires ou parties prenantes" x="22" y="52" width="260" height="50" />
+  594         </frame>
+  595         <frame id="10:192" name="Frame" x="967.5" y="0" width="304.5" height="126">
+  596           <text id="10:193" name="Mobiliser" x="22" y="24" width="150" height="20" />
+  597           <text id="10:194" name="une communauté professionnelle ou institutionnelle" x="22" y="52" width="260" height="50" />
+  598         </frame>
+  599       </frame>
+  600     </frame>
+  601     <frame id="10:195" name="Frame" x="0" y="3408" width="1440" height="247">
+  602       <text id="10:196" name="Une expertise peut commencer par une question." x="220" y="76" width="1000" height="47" />
+  603       <text id="10:197" name="Parler de votre projet →" x="638.5" y="151" width="163" height="20" />
+  604     </frame>
+  605     <instance id="61:542" name="Pied de page / Site public" x="0" y="3655" width="1440" height="234" />
