@@ -58,9 +58,8 @@ export const viewport: Viewport = {
 };
 
 /**
- * Les animations d'apparition ne s'appliquent que si JavaScript est disponible :
- * la classe est posée avant le premier rendu pour éviter tout clignotement de
- * contenu masqué.
+ * Active les animations lorsque JavaScript est disponible. Le contenu reste
+ * visible avec ou sans cette classe, y compris avant l'hydratation.
  */
 const ENABLE_JS_CLASS = "document.documentElement.classList.add('js');";
 

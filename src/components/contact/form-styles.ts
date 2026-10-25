@@ -8,7 +8,7 @@
 export const FIELD = "flex w-full flex-col gap-2";
 
 export const LABEL =
-  "text-[11px] font-bold uppercase leading-[1.4] tracking-[0.06em] text-gold-ink lg:text-[12px]";
+  "text-[12px] font-bold uppercase leading-[1.4] tracking-[0.06em] text-gold-ink";
 
 export const ERROR_TEXT = "text-[12px] leading-[1.4] text-danger";
 
@@ -18,11 +18,11 @@ const CONTROL_SHARED =
 /** Champ de saisie d'une ligne. */
 export const CONTROL_INPUT = `${CONTROL_SHARED} lg:h-[52px]`;
 
-/** Zone de message : une seule ligne sur mobile, 140 px de haut sur desktop. */
-export const CONTROL_TEXTAREA = `${CONTROL_SHARED} resize-none lg:h-[140px] lg:py-3.5`;
+/** Message lisible et redimensionnable aussi sur mobile. */
+export const CONTROL_TEXTAREA = `${CONTROL_SHARED} min-h-[120px] resize-y lg:min-h-[140px] lg:py-3.5`;
 
 export const CARD =
-  "flex w-full flex-col gap-6 rounded-frame bg-paper p-6 shadow-card lg:gap-7 lg:p-8";
+  "flex w-full flex-col gap-6 rounded-frame bg-paper p-5 shadow-raised sm:p-7 lg:p-8";
 
 /** Pastille d'envoi : navy sur mobile comme sur desktop. */
 export const SUBMIT_BUTTON =

@@ -44,7 +44,7 @@ export function SiteHeader() {
 
   return (
     <header className="sticky top-0 z-40 border-b border-line/70 bg-paper/92 backdrop-blur-md">
-      <Container padding="wide" className="flex items-center gap-4 py-4 lg:gap-10 lg:py-5">
+      <Container padding="wide" className="flex min-h-[72px] items-center gap-4 py-3 lg:min-h-[88px] lg:gap-7 lg:py-4">
         <Wordmark variant="header" />
 
         <nav
@@ -60,7 +60,7 @@ export function SiteHeader() {
                 href={asHref(item.href)}
                 aria-current={active ? "page" : undefined}
                 className={cn(
-                  "relative text-[15px] font-medium leading-[1.4] transition-colors duration-300 ease-editorial",
+                  "relative inline-flex min-h-11 items-center text-[14px] font-medium leading-[1.4] transition-colors duration-200 ease-editorial xl:text-[15px]",
                   "after:absolute after:-bottom-1.5 after:left-0 after:h-px after:w-full after:origin-left after:scale-x-0 after:bg-gold-ink after:transition-transform after:duration-300 after:ease-editorial",
                   active
                     ? "text-gold-ink after:scale-x-100"
@@ -87,7 +87,7 @@ export function SiteHeader() {
           aria-controls={MOBILE_MENU_ID}
           aria-label="Ouvrir le menu"
           className={cn(
-            "relative ml-auto flex h-6 w-7 shrink-0 items-center justify-center text-navy transition-colors duration-300 ease-editorial after:absolute after:-inset-x-3 after:-inset-y-3 after:content-[''] hover:text-gold-ink lg:hidden",
+            "relative ml-auto flex h-11 w-11 shrink-0 items-center justify-center rounded-full text-navy transition-colors duration-200 ease-editorial hover:bg-mist hover:text-gold-ink lg:hidden",
             open ? "invisible" : "",
           )}
         >

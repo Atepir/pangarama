@@ -37,17 +37,17 @@ export function ExpertisesSection() {
                 >
                   <Link
                     href={expertiseHref(expertise.slug)}
-                    className="group flex w-full flex-col gap-3 rounded-card bg-paper p-5 transition-colors duration-300 ease-editorial hover:bg-white lg:flex-row lg:items-center lg:gap-8 lg:rounded-none lg:bg-transparent lg:px-2 lg:py-7 lg:hover:bg-paper"
+                    className="group relative flex w-full flex-col gap-4 rounded-card bg-paper p-5 transition-colors duration-200 ease-editorial hover:bg-white focus-visible:bg-white lg:grid lg:grid-cols-[128px_minmax(0,1fr)_24px] lg:items-center lg:gap-6 lg:rounded-none lg:bg-transparent lg:px-2 lg:py-6 lg:hover:bg-paper lg:focus-visible:bg-paper"
                   >
-                    <div className="flex items-center gap-4 lg:w-[168px] lg:shrink-0">
+                    <div className="flex items-center gap-3">
                       <p className="text-[12px] font-bold tracking-[0.08em] text-gold-ink">
                         {expertise.number}
                       </p>
                       {emblem ? <Emblem name={emblem} className="rounded-card" /> : null}
                     </div>
 
-                    <div className="flex min-w-0 flex-1 flex-col gap-1.5 lg:flex-row lg:items-baseline lg:gap-8">
-                      <h3 className="max-w-[420px] text-display-3 text-navy transition-colors duration-300 ease-editorial group-hover:text-gold-ink lg:w-[300px] lg:shrink-0 xl:w-[400px]">
+                    <div className="flex min-w-0 flex-col gap-2 lg:grid lg:grid-cols-[minmax(0,0.95fr)_minmax(0,1.2fr)] lg:items-start lg:gap-8">
+                      <h3 className="max-w-[420px] text-display-3 text-navy transition-colors duration-200 ease-editorial group-hover:text-gold-ink group-focus-visible:text-gold-ink">
                         {expertise.title}
                       </h3>
                       <p className="max-w-[560px] text-body-md text-body">
@@ -57,7 +57,7 @@ export function ExpertisesSection() {
 
                     <span
                       aria-hidden="true"
-                      className="hidden text-[22px] text-navy transition-transform duration-300 ease-editorial group-hover:translate-x-1 lg:block"
+                      className="absolute top-7 right-5 text-[22px] text-navy transition-transform duration-200 ease-editorial group-hover:translate-x-1 group-focus-visible:translate-x-1 lg:static"
                     >
                       →
                     </span>

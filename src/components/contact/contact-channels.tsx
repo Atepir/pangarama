@@ -29,7 +29,7 @@ export function ContactChannels() {
             {href ? (
               <a
                 href={href}
-                className="text-display-4 text-navy transition-colors duration-300 ease-editorial hover:text-gold-ink"
+                className="self-start text-display-4 wrap-anywhere text-navy transition-colors duration-200 ease-editorial hover:text-gold-ink"
               >
                 {value}
               </a>

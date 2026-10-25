@@ -23,26 +23,59 @@ export function MobileMenu({
   onClose: () => void;
 }) {
   const closeRef = useRef<HTMLButtonElement>(null);
+  const panelRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     closeRef.current?.focus();
   }, []);
 
   useEffect(() => {
+    const previousOverflow = document.body.style.overflow;
+    document.body.style.overflow = "hidden";
+
     const handleKeyDown = (event: KeyboardEvent) => {
       if (event.key === "Escape") {
         onClose();
       }
+
+      if (event.key === "Tab") {
+        const controls = panelRef.current?.querySelectorAll<HTMLElement>(
+          'a[href], button:not([disabled])',
+        );
+        if (!controls?.length) return;
+
+        const first = controls[0];
+        const last = controls[controls.length - 1];
+        if (event.shiftKey && document.activeElement === first) {
+          event.preventDefault();
+          last.focus();
+        } else if (!event.shiftKey && document.activeElement === last) {
+          event.preventDefault();
+          first.focus();
+        }
+      }
     };
 
+    const handleResize = () => {
+      if (window.innerWidth >= 1024) onClose();
+    };
     document.addEventListener("keydown", handleKeyDown);
-    return () => document.removeEventListener("keydown", handleKeyDown);
+    window.addEventListener("resize", handleResize);
+    return () => {
+      document.body.style.overflow = previousOverflow;
+      document.removeEventListener("keydown", handleKeyDown);
+      window.removeEventListener("resize", handleResize);
+    };
   }, [onClose]);
 
   return (
     <div
+      ref={panelRef}
       id={id}
-      className="absolute inset-x-0 top-0 z-20 flex flex-col gap-7 bg-navy px-6 pt-5 pb-9 lg:hidden"
+      role="dialog"
+      aria-modal="true"
+      aria-label="Menu principal"
+      className="absolute inset-x-0 top-0 z-20 flex max-h-dvh flex-col gap-6 overflow-y-auto overscroll-contain bg-navy px-5 pt-4 pb-8 sm:px-8 lg:hidden"
     >
       <div className="flex h-10 items-center gap-3">
         <Wordmark variant="menu" tone="onDarkWarm" />
@@ -52,7 +85,7 @@ export function MobileMenu({
           type="button"
           onClick={onClose}
           aria-label="Fermer le menu"
-          className="relative shrink-0 text-[28px] leading-none font-normal text-on-dark-warm transition-colors duration-300 ease-editorial after:absolute after:-inset-3 after:content-[''] hover:text-gold focus-visible:text-gold"
+          className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full text-[28px] leading-none font-normal text-on-dark-warm transition-colors duration-200 ease-editorial hover:bg-navy-raised hover:text-gold focus-visible:text-gold"
         >
           ×
         </button>

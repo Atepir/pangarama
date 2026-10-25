@@ -9,9 +9,9 @@ type LinkTone = "navy" | "muted" | "onDark" | "gold" | "light";
 type LinkWeight = "semibold" | "bold";
 
 const SIZE: Record<ActionSize, string> = {
-  sm: "px-[18px] py-[10px] text-[14px]",
-  md: "px-[22px] py-[13px] text-[15px]",
-  lg: "px-[26px] py-[15px] text-[15px]",
+  sm: "min-h-11 px-[18px] py-[10px] text-[14px]",
+  md: "min-h-12 px-[22px] py-[13px] text-[15px]",
+  lg: "min-h-12 px-[26px] py-[15px] text-[15px]",
 };
 
 const VARIANT: Record<ActionVariant, string> = {
@@ -26,7 +26,7 @@ const VARIANT: Record<ActionVariant, string> = {
 };
 
 const ACTION_BASE =
-  "inline-flex items-center justify-center gap-[8px] rounded-full font-semibold leading-[1.2] transition-colors duration-300 ease-editorial";
+  "inline-flex max-w-full items-center justify-center gap-2 rounded-full text-center font-semibold leading-[1.35] transition-colors duration-200 ease-editorial active:brightness-95";
 
 const LINK_TONE: Record<LinkTone, string> = {
   navy: "text-navy hover:text-gold-ink",
@@ -166,7 +166,7 @@ export function ArrowLink({
     <Link
       href={href}
       className={cn(
-        "group inline-flex items-center gap-[8px] text-[15px] leading-[1.4] transition-colors duration-300 ease-editorial",
+        "group inline-flex min-h-11 items-center gap-2 self-start text-[15px] leading-[1.4] transition-colors duration-200 ease-editorial",
         LINK_WEIGHT[weight],
         LINK_TONE[tone],
         className,
@@ -175,7 +175,7 @@ export function ArrowLink({
       <span>{children}</span>
       <span
         aria-hidden="true"
-        className="transition-transform duration-300 ease-editorial group-hover:translate-x-1"
+        className="shrink-0 transition-transform duration-200 ease-editorial group-hover:translate-x-1 group-focus-visible:translate-x-1"
       >
         →
       </span>

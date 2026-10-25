@@ -99,6 +99,29 @@ describe("SiteHeader", () => {
     );
   });
 
+  it("garde le clavier dans le menu et restaure le défilement à la fermeture", async () => {
+    const user = userEvent.setup();
+    document.body.style.overflow = "auto";
+    render(<SiteHeader />);
+    await user.click(screen.getByRole("button", { name: "Ouvrir le menu" }));
+
+    const panel = screen.getByRole("dialog", { name: "Menu principal" });
+    const controls = panel.querySelectorAll<HTMLElement>("a[href], button");
+    const first = controls[0];
+    const last = controls[controls.length - 1];
+    expect(document.body.style.overflow).toBe("hidden");
+
+    first.focus();
+    await user.tab({ shift: true });
+    expect(last).toHaveFocus();
+    await user.tab();
+    expect(first).toHaveFocus();
+
+    await user.keyboard("{Escape}");
+    expect(document.body.style.overflow).toBe("auto");
+    document.body.style.overflow = "";
+  });
+
   it("se referme avec le bouton de fermeture et rend le focus au bouton", async () => {
     const user = userEvent.setup();
 

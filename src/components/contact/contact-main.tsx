@@ -11,8 +11,8 @@ export function ContactMain() {
   return (
     <section className="bg-ivory">
       <Container className="section-y">
-        <div className="grid grid-cols-1 gap-12 lg:grid-cols-[minmax(0,640px)_minmax(0,360px)] lg:items-start lg:justify-between lg:gap-16">
-          <ContactForm className="max-w-[640px]" />
+        <div className="grid grid-cols-1 gap-10 lg:grid-cols-[minmax(0,1.6fr)_minmax(0,1fr)] lg:items-start lg:gap-12 xl:gap-20">
+          <ContactForm />
           <ContactChannels />
         </div>
       </Container>

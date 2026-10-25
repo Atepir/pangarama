@@ -48,8 +48,8 @@ export function EditorialHero({
 
   return (
     <section id={id} className={cn(dark ? "bg-navy" : "bg-mist lg:bg-ivory", className)}>
-      <Container padding="wide" className="pt-10 pb-12 lg:pt-16 lg:pb-20">
-        <div className="flex flex-col gap-7 lg:gap-9">
+      <Container padding="wide" className="pt-9 pb-12 sm:pt-12 lg:pt-14 lg:pb-16">
+        <div className="flex flex-col gap-5 lg:gap-7">
           {eyebrow ? (
             <SectionEyebrow size="hero" tone={dark ? "goldLight" : "gold"}>
               {eyebrow}
@@ -67,13 +67,13 @@ export function EditorialHero({
           {intro || children || aside ? (
             <div
               className={cn(
-                "flex flex-col gap-8",
+                "flex flex-col gap-7",
                 split
-                  ? "lg:flex-row lg:items-start lg:gap-16"
-                  : "lg:flex-row lg:items-end lg:gap-16",
+                  ? "lg:flex-row lg:items-center lg:justify-between lg:gap-12"
+                  : "lg:flex-row lg:items-end lg:gap-12",
               )}
             >
-              <div className="flex flex-col gap-6 lg:max-w-[560px] lg:flex-1">
+              <div className="flex min-w-0 flex-col gap-6 lg:max-w-[560px] lg:flex-1">
                 {intro ? (
                   <p
                     className={cn(
@@ -88,11 +88,11 @@ export function EditorialHero({
 
                 {footNote}
 
-                {children ? <div className="flex flex-wrap gap-3">{children}</div> : null}
+                {children ? <div className="flex flex-col items-stretch gap-3 sm:flex-row sm:flex-wrap sm:items-center">{children}</div> : null}
               </div>
 
               {aside ? (
-                <div className="lg:w-[40%] lg:max-w-[500px] lg:shrink-0">{aside}</div>
+                <div className="w-full max-w-[500px] self-center lg:w-[40%] lg:shrink-0">{aside}</div>
               ) : null}
             </div>
           ) : null}

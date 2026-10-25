@@ -13,8 +13,8 @@ type RevealProps = {
 };
 
 /**
- * Apparition douce au scroll. Le CSS ne s'applique qu'avec `html.js`,
- * et les animations sont désactivées si `prefers-reduced-motion` est actif.
+ * Accent d'apparition au scroll, sans état masqué avant l'intersection.
+ * Le CSS respecte `prefers-reduced-motion` et reste lisible sans JavaScript.
  */
 export function Reveal({ children, as = "div", delay = 0, className }: RevealProps) {
   const Tag = as as ElementType;

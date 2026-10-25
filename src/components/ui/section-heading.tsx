@@ -16,10 +16,10 @@ type EyebrowSize = "default" | "compact" | "hero";
 
 const EYEBROW_SIZE: Record<EyebrowSize, string> = {
   default: "text-eyebrow",
-  /** Surtitre secondaire : jamais sous 11 px. */
-  compact: "text-[11px] leading-[1.4] tracking-[0.08em] lg:text-[12px]",
+  /** Surtitre secondaire : même corps lisible de 12 px. */
+  compact: "text-eyebrow",
   /** Surtitre du hero : 12 px sur toutes les tailles d'écran. */
-  hero: "text-[11px] leading-[1.5] tracking-[0.08em] lg:text-[12px]",
+  hero: "text-eyebrow",
 };
 
 export function SectionEyebrow({

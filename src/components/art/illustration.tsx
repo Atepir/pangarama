@@ -197,7 +197,7 @@ export function Illustration({ name, className, alt, priority }: IllustrationPro
   );
 }
 
-/** Pastille d'expertise 106 × 78 (fond navy inclus dans l'asset). */
+/** Pastille d'expertise compacte, proportionnelle à l'asset 106 × 78. */
 export function Emblem({ name, className }: { name: EmblemKey; className?: string }) {
   const emblem = EMBLEMS[name];
   return (
@@ -208,7 +208,7 @@ export function Emblem({ name, className }: { name: EmblemKey; className?: strin
       alt=""
       loading="lazy"
       decoding="async"
-      className={cn("h-[78px] w-[106px] shrink-0", className)}
+      className={cn("h-[60px] w-[82px] shrink-0 lg:h-[64px] lg:w-[88px]", className)}
     />
   );
 }

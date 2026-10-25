@@ -15,7 +15,7 @@ export function HomeHero() {
       titleLines={HOME_HERO.titleLines}
       intro={HOME_HERO.intro}
       aside={
-        <div className="overflow-hidden rounded-cover bg-mist lg:rounded-frame">
+        <div className="overflow-hidden rounded-cover bg-mist [&_img]:max-h-[260px] [&_img]:object-cover lg:rounded-frame lg:[&_img]:max-h-[340px]">
           <Illustration name="strategic-intelligence" alt="" priority />
         </div>
       }

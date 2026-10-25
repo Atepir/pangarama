@@ -5,8 +5,8 @@ import { cn } from "@/lib/cn";
 type ContainerPadding = "default" | "wide" | "none";
 
 const PADDING: Record<ContainerPadding, string> = {
-  default: "px-5 sm:px-8 lg:px-12 xl:px-[84px]",
-  wide: "px-5 sm:px-8 lg:px-10 xl:px-[72px]",
+  default: "px-5 sm:px-8 lg:px-12 xl:px-16",
+  wide: "px-5 sm:px-8 lg:px-12 xl:px-16",
   none: "",
 };
 
@@ -18,7 +18,7 @@ type ContainerProps = {
   children: ReactNode;
 };
 
-/** Largeur maximale 1440 px et gouttières progressives (84 px sur grand écran). */
+/** Même axe d'alignement pour l'en-tête, les héros et le contenu. */
 export function Container({
   as: Tag = "div",
   id,
