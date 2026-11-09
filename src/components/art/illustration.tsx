@@ -1,6 +1,6 @@
-/* eslint-disable @next/next/no-img-element -- Les visuels sont des SVG autonomes
-   (ils portent leurs propres filtres et identifiants) : ils doivent être chargés
-   comme documents isolés via `<img>`, et non inlinés dans le DOM de la page. */
+/* eslint-disable @next/next/no-img-element -- Les visuels sont servis comme
+   fichiers statiques (photographies optimisées et SVG autonomes portant leurs
+   propres filtres et identifiants) : ils passent par `<img>`, pas next/image. */
 
 import { cn } from "@/lib/cn";
 
@@ -51,60 +51,69 @@ export function emblemKey(code: string): EmblemKey | undefined {
 
 const BASE = "/illustrations";
 
+/** Photographies documentaires : elles remplacent les scènes illustrées d'origine. */
+const PHOTO = `${BASE}/photos`;
+
+/**
+ * Chaque scène porte la photographie qui documente son sujet : terrain
+ * burkinabè, marché, atelier de travail, institution, rencontres, territoire.
+ * Les couvertures éditoriales (Réalisations & Insights) restent illustrées.
+ */
 const SCENES: Record<IllustrationKey, SceneAsset> = {
   "strategic-intelligence": {
-    src: `${BASE}/strategic-intelligence.svg`,
+    src: `${PHOTO}/ouagadougou-vue-aerienne.webp`,
     width: 550,
     height: 580,
-    alt: "Illustration : relief topographique et point de signal",
+    alt: "Photographie : vue aérienne d'un carrefour giratoire au cœur d'une ville",
   },
   "market-report": {
-    src: `${BASE}/market-report.svg`,
+    src: `${PHOTO}/ouagadougou-rue-marche.webp`,
     width: 490,
     height: 330,
-    alt: "Illustration : rapport relié et graphique de synthèse",
+    alt: "Photographie : rue commerçante de Ouagadougou, charrettes et passants",
   },
   "field-notes": {
-    src: `${BASE}/field-notes.svg`,
+    src: `${PHOTO}/atelier-briefing.webp`,
     width: 560,
     height: 390,
-    alt: "Illustration : carnet de terrain et relevé cartographique",
+    alt: "Photographie : table de travail couverte de notes manuscrites et de feutres",
   },
   "field-of-view": {
-    src: `${BASE}/field-of-view.svg`,
+    src: `${PHOTO}/territoire-africain.webp`,
     width: 500,
     height: 430,
-    alt: "Illustration : éventail de lecture et champ d'observation",
+    alt: "Photographie : immeubles de bureaux le long d'une avenue arborée",
   },
+  /* Communication financière : même visuel sur la page Expertises et le détail. */
   "expertise-matrix": {
-    src: `${BASE}/expertise-matrix.svg`,
+    src: `${PHOTO}/monument-ouagadougou.webp`,
     width: 470,
     height: 320,
-    alt: "Illustration : quatre formes complémentaires",
+    alt: "Photographie : monument aux héros nationaux de Ouagadougou",
   },
   "expertise-report": {
-    src: `${BASE}/expertise-report.svg`,
+    src: `${PHOTO}/monument-ouagadougou.webp`,
     width: 500,
     height: 330,
-    alt: "Illustration : double page éditoriale",
+    alt: "Photographie : monument aux héros nationaux de Ouagadougou",
   },
   "expertise-network": {
-    src: `${BASE}/expertise-network.svg`,
+    src: `${PHOTO}/marche-urbain.webp`,
     width: 470,
     height: 320,
-    alt: "Illustration : réseau de signaux et d'acteurs",
+    alt: "Photographie : rue marchande, étals, enseignes et passants",
   },
   "expertise-forum": {
-    src: `${BASE}/expertise-forum.svg`,
+    src: `${PHOTO}/reunion-professionnelle.webp`,
     width: 470,
     height: 320,
-    alt: "Illustration : assemblée et gradins",
+    alt: "Photographie : réunion de travail autour d'une table",
   },
   "expertise-territory": {
-    src: `${BASE}/expertise-territory.svg`,
+    src: `${PHOTO}/ouagadougou-avenues.webp`,
     width: 470,
     height: 320,
-    alt: "Illustration : territoire et itinéraire",
+    alt: "Photographie : avenues, immeubles et trafic d'un quartier de Ouagadougou vus du ciel",
   },
   "case-system": {
     src: `${BASE}/case-system.svg`,
@@ -180,7 +189,11 @@ type IllustrationProps = {
   priority?: boolean;
 };
 
-/** Visuel éditorial de section, chargé comme document SVG autonome. */
+/**
+ * Visuel éditorial de section. Les dimensions déclarées fixent le cadre de la
+ * maquette : la photographie le remplit et se recadre au centre (`object-cover`),
+ * ce qui évite toute déformation et tout décalage de mise en page.
+ */
 export function Illustration({ name, className, alt, priority }: IllustrationProps) {
   const scene = SCENES[name];
 
@@ -192,7 +205,7 @@ export function Illustration({ name, className, alt, priority }: IllustrationPro
       alt={alt ?? scene.alt}
       loading={priority ? "eager" : "lazy"}
       decoding="async"
-      className={cn("h-auto w-full", className)}
+      className={cn("h-auto w-full object-cover", className)}
     />
   );
 }

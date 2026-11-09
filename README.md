@@ -119,7 +119,7 @@ src/
   content/        contenu éditorial typé (pas de chaîne en dur dans les composants)
   config/site.ts  identité, coordonnées, réseaux sociaux (source unique)
   lib/            utilitaires (SEO, routes, révélation au défilement)
-public/illustrations/  illustrations SVG (variantes desktop et mobile/)
+public/illustrations/  visuels du site : photographies WebP (`photos/`) et illustrations SVG
 e2e/              suites Playwright + helpers (audit de mise en page, routes)
 scripts/          outillage post-build (voir « Déploiement »)
 .figma/           outillage et captures de comparaison visuelle (voir ci-dessous)
@@ -141,7 +141,9 @@ page. La palette de la charte — navy `#16243d`, crème `#ffe9cf`, blanc `#ffff
 gris clair `#efefef`, or `#bb975a` — est déclarée dans le bloc `@theme` de
 `src/app/globals.css`, source unique des couleurs (fonds, aplats navy, accents
 dorés, textes) ; les illustrations de `public/illustrations/` en reprennent les
-teintes. `src/app/icon.svg` reprend le monogramme comme favicon.
+teintes, tandis que les photographies de `public/illustrations/photos/`
+documentent le terrain (rue de Ouagadougou, marché, réunion de travail).
+`src/app/icon.svg` reprend le monogramme comme favicon.
 
 ## Tests
 
