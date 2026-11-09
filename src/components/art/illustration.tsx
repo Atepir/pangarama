@@ -56,8 +56,9 @@ const PHOTO = `${BASE}/photos`;
 
 /**
  * Chaque scène porte la photographie qui documente son sujet : terrain
- * burkinabè, marché, atelier de travail, institution, rencontres, territoire.
- * Les couvertures éditoriales (Réalisations & Insights) restent illustrées.
+ * burkinabè, marché, atelier de travail, institution, rencontres, territoire,
+ * analyses. Seules les couvertures de publication et les emblèmes restent
+ * illustrés (voir `EMBLEMS`, `INSIGHT_COVERS` et `INSIGHT_CARTOGRAPHY`).
  */
 const SCENES: Record<IllustrationKey, SceneAsset> = {
   "strategic-intelligence": {
@@ -116,10 +117,10 @@ const SCENES: Record<IllustrationKey, SceneAsset> = {
     alt: "Photographie : avenues, immeubles et trafic d'un quartier de Ouagadougou vus du ciel",
   },
   "case-system": {
-    src: `${BASE}/case-system.svg`,
+    src: `${PHOTO}/ouagadougou-vue-aerienne.webp`,
     width: 470,
     height: 430,
-    alt: "Illustration : système de signaux",
+    alt: "Photographie : vue aérienne d'un carrefour giratoire et de ses avenues",
   },
   "case-note": {
     src: `${BASE}/case-note.svg`,
@@ -128,16 +129,16 @@ const SCENES: Record<IllustrationKey, SceneAsset> = {
     alt: "Illustration : note de synthèse",
   },
   "insight-system": {
-    src: `${BASE}/insight-system.svg`,
+    src: `${PHOTO}/atelier-briefing.webp`,
     width: 570,
     height: 390,
-    alt: "Illustration : publication et données",
+    alt: "Photographie : table de travail couverte de notes, de feutres et de repères",
   },
   "case-study": {
-    src: `${BASE}/case-study.svg`,
+    src: `${PHOTO}/ouagadougou-rue-marche.webp`,
     width: 500,
     height: 330,
-    alt: "Illustration : dossier de mission",
+    alt: "Photographie : rue commerçante de Ouagadougou, charrettes et passants",
   },
 };
 
@@ -190,9 +191,10 @@ type IllustrationProps = {
 };
 
 /**
- * Visuel éditorial de section. Les dimensions déclarées fixent le cadre de la
- * maquette : la photographie le remplit et se recadre au centre (`object-cover`),
- * ce qui évite toute déformation et tout décalage de mise en page.
+ * Visuel éditorial de section. La largeur est fluide et la hauteur suit le
+ * ratio de la photographie ; `width`/`height` réservent la place avant
+ * chargement. Les conteneurs qui bornent la hauteur (hero d'accueil) recadrent
+ * alors au centre via `object-cover`.
  */
 export function Illustration({ name, className, alt, priority }: IllustrationProps) {
   const scene = SCENES[name];
