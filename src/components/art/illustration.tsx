@@ -57,8 +57,8 @@ const PHOTO = `${BASE}/photos`;
 /**
  * Chaque scène porte la photographie qui documente son sujet : terrain
  * burkinabè, marché, atelier de travail, institution, rencontres, territoire,
- * analyses. Seules les couvertures de publication et les emblèmes restent
- * illustrés (voir `EMBLEMS`, `INSIGHT_COVERS` et `INSIGHT_CARTOGRAPHY`).
+ * analyses. Seuls les emblèmes et la cartographie d'article restent illustrés
+ * (voir `EMBLEMS` et `INSIGHT_CARTOGRAPHY`).
  */
 const SCENES: Record<IllustrationKey, SceneAsset> = {
   "strategic-intelligence": {
@@ -166,13 +166,9 @@ const EMBLEMS: Record<EmblemKey, Asset> = {
 };
 
 const INSIGHT_COVERS: Record<InsightCoverKey, Asset> = {
-  "market-signals": { src: `${BASE}/insights/market-signals.svg`, width: 409, height: 205 },
-  "corporate-finance": {
-    src: `${BASE}/insights/corporate-finance.svg`,
-    width: 409,
-    height: 205,
-  },
-  "strategic-map": { src: `${BASE}/insights/strategic-map.svg`, width: 409, height: 205 },
+  "market-signals": { src: `${PHOTO}/monument-ouagadougou.webp`, width: 409, height: 205 },
+  "corporate-finance": { src: `${PHOTO}/reunion-professionnelle.webp`, width: 409, height: 205 },
+  "strategic-map": { src: `${PHOTO}/marche-urbain.webp`, width: 409, height: 205 },
 };
 
 /** Cartographie du bloc « Aller plus loin » du gabarit article. */
@@ -228,7 +224,7 @@ export function Emblem({ name, className }: { name: EmblemKey; className?: strin
   );
 }
 
-/** Couverture de carte insight 409 × 205. */
+/** Couverture de carte insight : cadre de la maquette 409 × 205, recadré au centre. */
 export function InsightCover({
   name,
   className,
@@ -246,7 +242,7 @@ export function InsightCover({
       alt=""
       loading="lazy"
       decoding="async"
-      className={cn("h-auto w-full", className)}
+      className={cn("aspect-[409/205] w-full object-cover", className)}
     />
   );
 }
