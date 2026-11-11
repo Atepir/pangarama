@@ -39,6 +39,16 @@ export function FacebookIcon(props: IconProps) {
   );
 }
 
+export function InstagramIcon(props: IconProps) {
+  return (
+    <svg {...BASE} {...props}>
+      <rect x="3.25" y="3.25" width="17.5" height="17.5" rx="4.8" />
+      <circle cx="12" cy="12" r="3.9" />
+      <circle cx="16.9" cy="7.1" r="1" fill="currentColor" stroke="none" />
+    </svg>
+  );
+}
+
 export function YoutubeIcon(props: IconProps) {
   return (
     <svg {...BASE} {...props}>
@@ -51,5 +61,6 @@ export function YoutubeIcon(props: IconProps) {
 export const SOCIAL_ICONS: Record<SocialNetwork, (props: IconProps) => ReactElement> = {
   linkedin: LinkedinIcon,
   facebook: FacebookIcon,
+  instagram: InstagramIcon,
   youtube: YoutubeIcon,
 };

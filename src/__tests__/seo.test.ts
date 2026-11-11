@@ -153,9 +153,12 @@ describe("organizationJsonLd", () => {
     expect(jsonLd.url).toBe(`${base}/`);
     expect(jsonLd.telephone).toBe(siteConfig.phoneHref);
     expect(jsonLd.email).toBe(siteConfig.email);
-    expect(jsonLd.sameAs).toEqual([siteConfig.socials.youtube]);
+    expect(jsonLd.sameAs).toEqual([
+      siteConfig.socials.facebook,
+      siteConfig.socials.instagram,
+      siteConfig.socials.youtube,
+    ]);
     expect(JSON.stringify(jsonLd)).not.toContain("linkedin");
-    expect(JSON.stringify(jsonLd)).not.toContain("facebook");
   });
 });
 

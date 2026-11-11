@@ -2,56 +2,57 @@ import { render, screen } from "@testing-library/react";
 import { describe, expect, it } from "vitest";
 
 import { SocialLinks } from "@/components/ui/social-links";
-import { SOCIAL_LINKS, siteConfig } from "@/config/site";
+import { siteConfig } from "@/config/site";
 
-const YOUTUBE = SOCIAL_LINKS.find((link) => link.network === "youtube");
+const PROFILE_NETWORKS = ["facebook", "instagram", "youtube"] as const;
 
 describe("SocialLinks", () => {
-  it("affiche les trois réseaux de la maquette, dans l’ordre", () => {
+  it("affiche les quatre réseaux dans l’ordre", () => {
     render(<SocialLinks />);
 
     const items = Array.from(document.querySelectorAll("li"));
 
-    expect(items).toHaveLength(3);
+    expect(items).toHaveLength(4);
     expect(items.map((item) => item.querySelector("[aria-label]")?.getAttribute("aria-label"))).toEqual([
       `${siteConfig.name} sur LinkedIn — lien officiel à confirmer`,
-      `${siteConfig.name} sur Facebook — lien officiel à confirmer`,
-      YOUTUBE?.ariaLabel,
+      `${siteConfig.name} sur Facebook`,
+      `${siteConfig.name} sur Instagram`,
+      `${siteConfig.name} sur YouTube`,
     ]);
   });
 
-  it("pointe uniquement vers la chaîne YouTube confirmée", () => {
+  it("pointe vers les profils confirmés, en nouvel onglet", () => {
     render(<SocialLinks />);
 
     const anchors = screen.getAllByRole("link");
 
-    expect(anchors).toHaveLength(1);
-    expect(anchors[0]).toHaveAttribute("href", siteConfig.socials.youtube);
-    expect(anchors[0]).toHaveAttribute("target", "_blank");
-    expect(anchors[0]?.getAttribute("rel")).toContain("noreferrer");
-    expect(anchors[0]?.getAttribute("rel")).toContain("noopener");
+    expect(anchors.map((anchor) => anchor.getAttribute("href"))).toEqual(
+      PROFILE_NETWORKS.map((network) => siteConfig.socials[network]),
+    );
+
+    for (const anchor of anchors) {
+      expect(anchor).toHaveAttribute("target", "_blank");
+      expect(anchor.getAttribute("rel")).toContain("noreferrer");
+      expect(anchor.getAttribute("rel")).toContain("noopener");
+    }
   });
 
-  it("n’invente aucun lien pour les réseaux non confirmés", () => {
+  it("n’invente aucun lien pour LinkedIn, non confirmé", () => {
     render(<SocialLinks />);
 
     const placeholders = screen.getAllByRole("img");
 
-    expect(placeholders).toHaveLength(2);
-    expect(placeholders.map((placeholder) => placeholder.tagName)).toEqual(["SPAN", "SPAN"]);
-
-    const html = document.body.innerHTML;
-
-    expect(html).not.toMatch(/linkedin\.com/i);
-    expect(html).not.toMatch(/facebook\.com/i);
+    expect(placeholders).toHaveLength(1);
+    expect(placeholders[0]?.tagName).toBe("SPAN");
+    expect(document.body.innerHTML).not.toMatch(/linkedin\.com/i);
   });
 
   it("applique la tonalité demandée aux pastilles", () => {
     const { container: light } = render(<SocialLinks tone="light" />);
     const { container: dark } = render(<SocialLinks tone="dark" />);
 
-    expect(light.querySelectorAll("a, span[role='img']")).toHaveLength(3);
-    expect(dark.querySelectorAll("a, span[role='img']")).toHaveLength(3);
+    expect(light.querySelectorAll("a, span[role='img']")).toHaveLength(4);
+    expect(dark.querySelectorAll("a, span[role='img']")).toHaveLength(4);
     expect(light.querySelector("a")?.className).toContain("border-on-dark-faint");
     expect(dark.querySelector("a")?.className).toContain("border-navy/30");
   });

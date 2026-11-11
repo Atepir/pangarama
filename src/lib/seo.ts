@@ -87,11 +87,11 @@ export function buildMetadata({
       images: [image],
       ...(type === "article"
         ? {
-            publishedTime,
-            modifiedTime,
-            authors,
-            section,
-          }
+          publishedTime,
+          modifiedTime,
+          authors,
+          section,
+        }
         : {}),
     },
     twitter: {
@@ -107,9 +107,10 @@ type JsonLdObject = Record<string, unknown>;
 
 export function organizationJsonLd(): JsonLdObject {
   const candidates: (string | null)[] = [
-    siteConfig.socials.youtube,
     siteConfig.socials.linkedin,
     siteConfig.socials.facebook,
+    siteConfig.socials.instagram,
+    siteConfig.socials.youtube,
   ];
   const sameAs = candidates.filter((url): url is string => Boolean(url));
 

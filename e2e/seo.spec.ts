@@ -158,7 +158,11 @@ test("l'accueil porte les métadonnées complètes et le JSON-LD d'organisation"
   });
 
   // Seuls les profils réellement connus sont déclarés.
-  expect(organization?.sameAs).toEqual([siteConfig.socials.youtube]);
+  expect(organization?.sameAs).toEqual([
+    siteConfig.socials.facebook,
+    siteConfig.socials.instagram,
+    siteConfig.socials.youtube,
+  ]);
 });
 
 test("chaque page publique expose canonical, description, image sociale et liens réels", async ({
@@ -194,14 +198,22 @@ test("chaque page publique expose canonical, description, image sociale et liens
       await expect(page.locator('meta[property="og:title"]')).toHaveAttribute("content", title);
 
       /*
-       * Aucun réseau social inventé : les profils non fournis ne sont pas liés.
-       * Les gabarits éditoriaux portent en revanche un lien de partage LinkedIn
-       * (`share-bar.tsx`), qui n'est pas un profil.
+       * Aucun réseau social inventé : LinkedIn n'est pas confirmé et n'est
+       * donc pas lié. Les gabarits éditoriaux portent en revanche un lien de
+       * partage LinkedIn (`share-bar.tsx`), qui n'est pas un profil.
        */
       await expect(
-        page.locator('a[href*="linkedin.com"]:not([href*="/sharing/"]), a[href*="facebook.com"]'),
+        page.locator('a[href*="linkedin.com"]:not([href*="/sharing/"])'),
       ).toHaveCount(0);
-      await expect(page.locator(`a[href="${siteConfig.socials.youtube}"]`)).toHaveCount(1);
+      const profiles = [
+        siteConfig.socials.facebook,
+        siteConfig.socials.instagram,
+        siteConfig.socials.youtube,
+      ];
+
+      for (const href of profiles) {
+        await expect(page.locator(`a[href="${href}"]`)).toHaveCount(1);
+      }
     });
   }
 });

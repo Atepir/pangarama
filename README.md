@@ -129,7 +129,7 @@ scripts/          outillage post-build (voir « Déploiement »)
 
 Toute information non confirmée reste **explicitement marquée** et n'est jamais
 inventée : elle est centralisée dans `src/config/site.ts` (domaine définitif,
-URL LinkedIn et Facebook) ou reprise littéralement de la maquette
+URL LinkedIn) ou reprise littéralement de la maquette
 (`src/content/legal.ts` : éditeur, hébergeur, durées de conservation). La liste
 complète des écarts assumés par rapport à Figma est tenue à jour dans le
 document de suivi `deviations.md` livré avec le projet.

@@ -18,7 +18,7 @@ export const siteConfig = {
    * Utilisé pour les URL canoniques, Open Graph et le sitemap.
    */
   url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://www.pangarama.com",
-  email: "contact@pangarama.com",
+  email: "pangaramabf@gmail.com",
   phoneDisplay: "+226 04009598",
   phoneHref: "+22604009598",
   location: "Ouagadougou, Burkina Faso",
@@ -26,8 +26,8 @@ export const siteConfig = {
   socials: {
     // TODO(contenu): renseigner l'URL officielle LinkedIn lorsqu'elle sera confirmée.
     linkedin: null,
-    // TODO(contenu): renseigner l'URL officielle Facebook lorsqu'elle sera confirmée.
-    facebook: null,
+    facebook: "https://www.facebook.com/profile.php?id=100066814256401",
+    instagram: "https://www.instagram.com/pangarama_bf",
     youtube: "https://www.youtube.com/channel/UC0sM5JqxPJDfL6VfjblRP4Q",
   },
 } as const;
@@ -37,6 +37,7 @@ export type SocialNetwork = keyof typeof siteConfig.socials;
 const SOCIAL_LABELS: Record<SocialNetwork, string> = {
   linkedin: "LinkedIn",
   facebook: "Facebook",
+  instagram: "Instagram",
   youtube: "YouTube",
 };
 

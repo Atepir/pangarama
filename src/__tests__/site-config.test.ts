@@ -39,14 +39,23 @@ describe("siteConfig", () => {
 
   it("n’invente aucune URL de réseau social non confirmée", () => {
     expect(siteConfig.socials.linkedin).toBeNull();
-    expect(siteConfig.socials.facebook).toBeNull();
+    expect(siteConfig.socials.facebook).toMatch(/^https:\/\/(www\.)?facebook\.com\//);
+    expect(siteConfig.socials.instagram).toMatch(/^https:\/\/(www\.)?instagram\.com\//);
     expect(siteConfig.socials.youtube).toMatch(/^https:\/\/(www\.)?youtube\.com\//);
   });
 
   it("ne liste que les réseaux réellement configurés", () => {
-    expect(SOCIAL_LINKS.map((link) => link.network)).toEqual(["youtube"]);
-    expect(SOCIAL_LINKS[0]?.href).toBe(siteConfig.socials.youtube);
-    expect(SOCIAL_LINKS[0]?.ariaLabel).toBe("PANGARAMA sur YouTube");
+    expect(SOCIAL_LINKS.map((link) => link.network)).toEqual([
+      "facebook",
+      "instagram",
+      "youtube",
+    ]);
+    expect(SOCIAL_LINKS.map((link) => link.href)).toEqual([
+      siteConfig.socials.facebook,
+      siteConfig.socials.instagram,
+      siteConfig.socials.youtube,
+    ]);
+    expect(SOCIAL_LINKS[1]?.ariaLabel).toBe("PANGARAMA sur Instagram");
   });
 
   it("décrit les trois coordonnées de la page Contact", () => {

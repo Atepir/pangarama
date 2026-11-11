@@ -217,7 +217,7 @@ test.describe("Repères de page", () => {
     await expect(footer.locator('a[href^="tel:"]')).toHaveCount(1);
 
     const social = footer.getByRole("list").last();
-    await expect(social.getByRole("listitem")).toHaveCount(3);
+    await expect(social.getByRole("listitem")).toHaveCount(4);
   });
 });
 

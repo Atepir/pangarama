@@ -5,10 +5,11 @@ import { cn } from "@/lib/cn";
 const NETWORK_LABELS: Record<SocialNetwork, string> = {
   linkedin: "LinkedIn",
   facebook: "Facebook",
+  instagram: "Instagram",
   youtube: "YouTube",
 };
 
-const ORDER: readonly SocialNetwork[] = ["linkedin", "facebook", "youtube"];
+const ORDER: readonly SocialNetwork[] = ["linkedin", "facebook", "instagram", "youtube"];
 
 const TONE: Record<"light" | "dark", string> = {
   light: "border-on-dark-faint text-on-dark",
